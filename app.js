@@ -11,7 +11,7 @@ function updateProgress(){const count=weeks.filter(w=>completed.has(w.date)).len
 function render(){
   const query=$('#search').value.trim().toLocaleLowerCase(), state=$('#status').value;
   let filtered=weeks.filter(w=>`${w.date} ${w.topics.map(t=>t.title).join(' ')}`.toLocaleLowerCase().includes(query)&&(state==='all'||completed.has(w.date)===(state==='done')));
-  if($('#sort').value==='old')filtered=filtered.toReversed();
+  if($('#sort').value==='old')filtered=[...filtered].reverse();
   $('#courses').replaceChildren();$('#count').textContent=`${filtered.length} 期课程 / 共 ${weeks.length} 期`;
   $('#notice').textContent=filtered.length?'':'没有找到课程，试试其他关键词或学习状态。';
   filtered.forEach(w=>{const article=el('article',null,'card'), button=el('button');const photo=w.topics.flatMap(t=>t.photos)[0];if(photo)button.append(picture(photo,`${w.date} 摄影范例`));const date=el('time',w.date);date.dateTime=w.date;button.append(date,el('h3',w.topics[0]?.title||'本周摄影课'),el('p',w.topics.map(t=>t.title).join(' · ')),el('small',`${w.topics.length} 个题材 · ${w.topics.reduce((n,t)=>n+t.photos.length,0)} 张范例${completed.has(w.date)?' · 已完成 ✓':''}`));button.addEventListener('click',()=>{location.hash=`week=${w.date}`;});article.append(button);$('#courses').append(article);});updateProgress();
@@ -26,5 +26,5 @@ $('#lightbox').addEventListener('click',e=>{if(e.target===$('#lightbox'))$('#lig
 for(const id of ['search','status','sort'])$('#'+id).addEventListener('input',render);
 window.addEventListener('hashchange',openWeek);
 window.addEventListener('storage',e=>{if(e.key===storageKey){try{const v=JSON.parse(e.newValue||'[]');if(Array.isArray(v))completed=new Set(v.filter(x=>typeof x==='string'));}catch{}render();openWeek();}});
-async function load(){try{const r=await fetch('catalog.json');if(!r.ok)throw Error(`HTTP ${r.status}`);const data=await r.json();weeks=data.weeks;if(!Array.isArray(weeks)||!weeks.length)throw Error('课程索引为空');render();const photo=weeks[0].topics.flatMap(t=>t.photos)[0];if(photo){const img=picture(photo,'最新一期摄影作品');img.loading='eager';$('#hero-photo').firstElementChild.replaceWith(img);$('#hero-photo figcaption').textContent=`最新一期 / ${weeks[0].date} · ${weeks[0].topics[0]?.title||''}`;}openWeek();}catch{$('#notice').replaceChildren(el('span','课程暂时无法加载，请检查网络后重试。 '));const b=el('button','重新加载');b.onclick=load;$('#notice').append(b);}}
+async function load(){try{let data=window.PHOTOGRAPHY_CATALOG;if(!data){const r=await fetch('catalog.json',{signal:AbortSignal.timeout(15000)});if(!r.ok)throw Error(`HTTP ${r.status}`);data=await r.json();}weeks=data.weeks;if(!Array.isArray(weeks)||!weeks.length)throw Error('课程索引为空');render();const photo=weeks[0].topics.flatMap(t=>t.photos)[0];if(photo){const img=picture(photo,'最新一期摄影作品');img.loading='eager';$('#hero-photo').firstElementChild.replaceWith(img);$('#hero-photo figcaption').textContent=`最新一期 / ${weeks[0].date} · ${weeks[0].topics[0]?.title||''}`;}openWeek();}catch{$('#notice').replaceChildren(el('span','课程暂时无法加载，请检查网络后重试。 '));const b=el('button','重新加载');b.onclick=load;$('#notice').append(b);}}
 load();
