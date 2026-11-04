@@ -10,4 +10,4 @@
 
 GitHub Pages 的部署源需要设置为 GitHub Actions。首次部署依赖仓库的 Pages 与 Actions 权限；请以 Actions 成功结果为上线依据。
 
-本交付尚未推送或部署：connector 写入实际返回 403 Resource not accessible by integration。命令行网络和认证结果见交付时说明。
+网站已通过本机 Git 推送到 main，提交 06fb2a8。connector 仍返回 403，但本机 Git 读写可用。GitHub Actions 的测试与构建已通过；首次部署在 configure-pages 步骤失败，因为仓库尚未启用 GitHub Pages。请进入仓库 Settings → Pages，将 Source 设为 GitHub Actions，再重新运行 Photography course website 工作流。尚未验证上线。
