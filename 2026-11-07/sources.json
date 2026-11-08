@@ -1,0 +1,3377 @@
+{
+  "issue": "2026-11-07",
+  "photos": [
+    {
+      "path": "2026-11-07/霜叶的边缘与质感/01.jpg",
+      "commons_title": "File:Red leaves wih frost, Ehrenbach.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Red_leaves_wih_frost%2C_Ehrenbach.jpg",
+      "author": "Gerda Arendt",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Red_leaves_wih_frost%2C_Ehrenbach.jpg/1280px-Red_leaves_wih_frost%2C_Ehrenbach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Red_leaves_wih_frost%2C_Ehrenbach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "2de855e310380c2fbec49d715c512159c85645be",
+      "sha256": "df55a20c2503ac5ef6593913b134dafe28fa75e22e54cfe7a05a0c5dcd79035c",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/霜叶的边缘与质感/02.jpg",
+      "commons_title": "File:Carpinus betulus leaf with frost RF.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Carpinus_betulus_leaf_with_frost_RF.jpg",
+      "author": "Robert Flogaus-Faust",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Carpinus_betulus_leaf_with_frost_RF.jpg/1280px-Carpinus_betulus_leaf_with_frost_RF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Carpinus_betulus_leaf_with_frost_RF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "b2ded705797f149d4b62e0f9caf787e135b4ee9b",
+      "sha256": "d76af9a77fd16d4da5f1358a0c31931688683774eb97a1a9c965ea48776e432f",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "ImageDescription",
+          "value": null
+        },
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon PowerShot G11"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "GIMP 2.10.38"
+        },
+        {
+          "name": "DateTime",
+          "value": "2025:03:15 17:13:10"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/320"
+        },
+        {
+          "name": "FNumber",
+          "value": "63/10"
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0221"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2025:02:01 10:29:26"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2025:02:01 10:29:26"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "3/1"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "266/32"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "170/32"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "-3/3"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "139/32"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "30500/1000"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "3648000/292"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "2736000/219"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 1
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "3648/3648"
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "xmp.did:659084ea-6008-4b52-b547-2bc1f4a806f6"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/霜叶的边缘与质感/03.jpg",
+      "commons_title": "File:Frosted leaves, Ehrenbach.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Frosted_leaves%2C_Ehrenbach.jpg",
+      "author": "Gerda Arendt",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Frosted_leaves%2C_Ehrenbach.jpg/1280px-Frosted_leaves%2C_Ehrenbach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Frosted_leaves%2C_Ehrenbach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "0a50adbfd1661db04b58b7ad4a2afcf483172571",
+      "sha256": "5c60c46c6f5e028b9fa74e409f51b14c8e41ba91e28003143c8c5ff211167e73",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Make",
+          "value": "motorola"
+        },
+        {
+          "name": "Model",
+          "value": "motorola one vision"
+        },
+        {
+          "name": "Software",
+          "value": "kane_reteu-user 11 RSA31.Q1-48-"
+        },
+        {
+          "name": "DateTime",
+          "value": "2024:12:29 11:26:14"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/316"
+        },
+        {
+          "name": "FNumber",
+          "value": "170/100"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 40
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0220"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2024:12:29 11:26:14"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2024:12:29 11:26:14"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "830/100"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "153/100"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "589/100"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "-7/10"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "153/100"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 1
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "FocalLength",
+          "value": "4745/1000"
+        },
+        {
+          "name": "SubSecTime",
+          "value": "0725"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "0725"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "0725"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "100/100"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 26
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 2
+        },
+        {
+          "name": "Contrast",
+          "value": 1
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 2
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/霜叶的边缘与质感/04.jpg",
+      "commons_title": "File:Frost on Bay Tree Leaves - geograph.org.uk - 431574.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Frost_on_Bay_Tree_Leaves_-_geograph.org.uk_-_431574.jpg",
+      "author": "wfmillar",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Frost_on_Bay_Tree_Leaves_-_geograph.org.uk_-_431574.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Frost_on_Bay_Tree_Leaves_-_geograph.org.uk_-_431574.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "647fce1fc37397a4e8c941fd59c0b8efa3566c8e",
+      "sha256": "37133ce35aa7990f23e08b5441cf8a30d98ba9fa1f10978e10dc03f7bb6725c4",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon DIGITAL IXUS 700"
+        },
+        {
+          "name": "XResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "DateTime",
+          "value": "2005:12:29 12:52:31"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "3072/3072"
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/200"
+        },
+        {
+          "name": "FNumber",
+          "value": "28/10"
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0220"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2005:12:29 12:52:31"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2005:12:29 12:52:31"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "3/1"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "245/32"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "95/32"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/3"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "95/32"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 24
+        },
+        {
+          "name": "FocalLength",
+          "value": "7700/1000"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "2304000/213"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "3072000/284"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/霜叶的边缘与质感/05.jpg",
+      "commons_title": "File:Leaves with frost.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Leaves_with_frost.jpg",
+      "author": "Tord Dellsen",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Leaves_with_frost.jpg/1280px-Leaves_with_frost.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Leaves_with_frost.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "3cd7c834202986ff0f7d1a7feeff4045fc2c0a4f",
+      "sha256": "4f9a23aca092f9dd3e733a27e30b5817ae29cb41c97da440c543b877e3509806",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "ImageWidth",
+          "value": 3036
+        },
+        {
+          "name": "ImageLength",
+          "value": 4048
+        },
+        {
+          "name": "Make",
+          "value": "Google"
+        },
+        {
+          "name": "Model",
+          "value": "Pixel"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "HDR+ 1.0.281780091zd"
+        },
+        {
+          "name": "DateTime",
+          "value": "2019:12:27 10:48:29"
+        },
+        {
+          "name": "YCbCrSubSampling",
+          "value": "\n*2\n*2"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "ExposureTime",
+          "value": "4825/1000000"
+        },
+        {
+          "name": "FNumber",
+          "value": "200/100"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 50
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0231"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2019:12:27 10:48:29"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2019:12:27 10:48:29"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "770/100"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "200/100"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "570/100"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/6"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "200/100"
+        },
+        {
+          "name": "SubjectDistance",
+          "value": "103/1000"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 2
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "4670/1000"
+        },
+        {
+          "name": "SubSecTime",
+          "value": "478199"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "478199"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "478199"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 1
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "0/1"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 26
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "SubjectDistanceRange",
+          "value": 1
+        },
+        {
+          "name": "ImageUniqueID",
+          "value": "ba5a507658fb6dda0000000000000000"
+        },
+        {
+          "name": "GPSLatitude",
+          "value": 57.63793888888889
+        },
+        {
+          "name": "GPSLongitude",
+          "value": 11.91516388888889
+        },
+        {
+          "name": "GPSAltitude",
+          "value": 51
+        },
+        {
+          "name": "GPSTimeStamp",
+          "value": "\n*9/1\n*46/1\n*35/1"
+        },
+        {
+          "name": "GPSDOP",
+          "value": "21000/1000"
+        },
+        {
+          "name": "GPSImgDirectionRef",
+          "value": "M"
+        },
+        {
+          "name": "GPSImgDirection",
+          "value": "112/1"
+        },
+        {
+          "name": "GPSDateStamp",
+          "value": "2019:12:27"
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "0.0.2.2"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/裸树的线条与负空间/01.jpg",
+      "commons_title": "File:Silhouette of bare trees under blue sky.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Silhouette_of_bare_trees_under_blue_sky.jpg",
+      "author": "Yitzilitt",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Silhouette_of_bare_trees_under_blue_sky.jpg/1280px-Silhouette_of_bare_trees_under_blue_sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Silhouette_of_bare_trees_under_blue_sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "a8dc2663c24feb5be9d628b24dfdc3d11cf842e7",
+      "sha256": "85fb04777b3b38824fd4b5cd8360ad94751c1b09cfba8fd873ef76df7fac8d96",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Orientation",
+          "value": 6
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0221"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/裸树的线条与负空间/02.jpg",
+      "commons_title": "File:Bare Oak Tree.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bare_Oak_Tree.jpg",
+      "author": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
+      "license": "Public domain",
+      "license_url": "",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Bare_Oak_Tree.jpg/1280px-Bare_Oak_Tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bare_Oak_Tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "ae63641c1cabe251540cf58182378f79d2801d57",
+      "sha256": "12a0bd77e0cadebc467838528c1f2814806bb7e6bf60d32ad7dc0512d1a1a0c5",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "ImageDescription",
+          "value": "OLYMPUS DIGITAL CAMERA         "
+        },
+        {
+          "name": "Make",
+          "value": "OLYMPUS CORPORATION"
+        },
+        {
+          "name": "Model",
+          "value": "C8080WZ"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop 7.0"
+        },
+        {
+          "name": "DateTime",
+          "value": "2006:01:30 12:49:52"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "10/900"
+        },
+        {
+          "name": "FNumber",
+          "value": "40/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 50
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0220"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2006:01:27 15:53:02"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2006:01:27 15:53:02"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "4/1"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/10"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "25/10"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "71/10"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "0/100"
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/裸树的线条与负空间/03.jpg",
+      "commons_title": "File:Winter Sunset in Prince Rupert.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Winter_Sunset_in_Prince_Rupert.jpg",
+      "author": "Extemporalist",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Winter_Sunset_in_Prince_Rupert.jpg/1280px-Winter_Sunset_in_Prince_Rupert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Winter_Sunset_in_Prince_Rupert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "24531744dd8f8661495a2e01580225a21ccce309",
+      "sha256": "a146e9391df65855e4a0c3b99e688da4caa530299753afb91fd024636186a063",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/裸树的线条与负空间/04.jpg",
+      "commons_title": "File:Ilsfeld - Schozach - Schozacher Höhe - Birke vor Sonnenuntergangs-Himmel (1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ilsfeld_-_Schozach_-_Schozacher_H%C3%B6he_-_Birke_vor_Sonnenuntergangs-Himmel_(1).jpg",
+      "author": "Roman Eisele",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ilsfeld_-_Schozach_-_Schozacher_H%C3%B6he_-_Birke_vor_Sonnenuntergangs-Himmel_%281%29.jpg/1280px-Ilsfeld_-_Schozach_-_Schozacher_H%C3%B6he_-_Birke_vor_Sonnenuntergangs-Himmel_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ilsfeld_-_Schozach_-_Schozacher_H%C3%B6he_-_Birke_vor_Sonnenuntergangs-Himmel_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "ad66bc9a85cd682c03075e67578c9a309d9773de",
+      "sha256": "98767c9ae7e3501bb57867e7d7084780a83c8f029f371cc57c0799888f542487",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "ImageWidth",
+          "value": 5079
+        },
+        {
+          "name": "ImageLength",
+          "value": 6657
+        },
+        {
+          "name": "BitsPerSample",
+          "value": "\n*8\n*8\n*8"
+        },
+        {
+          "name": "Compression",
+          "value": 5
+        },
+        {
+          "name": "PhotometricInterpretation",
+          "value": 2
+        },
+        {
+          "name": "Make",
+          "value": "SONY"
+        },
+        {
+          "name": "Model",
+          "value": "ILCE-7RM2"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "SamplesPerPixel",
+          "value": 3
+        },
+        {
+          "name": "XResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "PlanarConfiguration",
+          "value": 1
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop 22.4 (Macintosh)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2021:06:20 10:55:39"
+        },
+        {
+          "name": "Artist",
+          "value": "Roman Eisele"
+        },
+        {
+          "name": "Copyright",
+          "value": "Copyright (c) Roman Eisele\n\n"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/40"
+        },
+        {
+          "name": "FNumber",
+          "value": "63/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 400
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0231"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2021:01:11 17:53:39"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2021:01:11 17:53:39"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "5321928/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "5310704/1000000"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "8914/2560"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "-10/10"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "512/256"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "350/10"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "70924134/32768"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "70924134/32768"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 3
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "16/16"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 35
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "Lens",
+          "value": "ZEISS Loxia 2/35"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2021:06:20 12:55:39"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "E5E4F90EA82A15F3279AF8B2681FBD88"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/裸树的线条与负空间/05.jpg",
+      "commons_title": "File:Silhouette d'arbre en hiver.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Silhouette_d%27arbre_en_hiver.jpg",
+      "author": "Philippe hirou",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Silhouette_d%27arbre_en_hiver.jpg/1280px-Silhouette_d%27arbre_en_hiver.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Silhouette_d%27arbre_en_hiver.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "81f69c4b313d7e948080db0931759169c70205e6",
+      "sha256": "6d0dd4f4f21c3d138c7f3721af12c57329cc0ebd3ea02b7f55126505e4a8d077",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Apple"
+        },
+        {
+          "name": "Model",
+          "value": "iPhone 5s"
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Photos 4.0"
+        },
+        {
+          "name": "DateTime",
+          "value": "2018:02:08 14:41:29"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/1414"
+        },
+        {
+          "name": "FNumber",
+          "value": "11/5"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 32
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0221"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2018:02:08 14:41:29"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2018:02:08 14:41:29"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "11544/1103"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "7983/3509"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "2672/273"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 24
+        },
+        {
+          "name": "FocalLength",
+          "value": "83/20"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "056"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "056"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 29
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "iimVersion",
+          "value": 2
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/窗光中的空间与冷暖/01.jpg",
+      "commons_title": "File:Interior Courtyard Of Patan Museum (221931947).jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_Courtyard_Of_Patan_Museum_(221931947).jpeg",
+      "author": "Francisco Anzola",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Interior_Courtyard_Of_Patan_Museum_%28221931947%29.jpeg/1280px-Interior_Courtyard_Of_Patan_Museum_%28221931947%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Interior_Courtyard_Of_Patan_Museum_%28221931947%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "61bbc296a6d6a48c52fb44856351f1e4f4cf0316",
+      "sha256": "29a2d666bc097f7fc1ff86c642efd4941f6713f3a5f84dd0d146178e58251125",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "NIKON CORPORATION"
+        },
+        {
+          "name": "Model",
+          "value": "NIKON D3200"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Lightroom 4.4 (Windows)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2014:02:21 19:53:46"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/125"
+        },
+        {
+          "name": "FNumber",
+          "value": "56/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 0
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 200
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2014:02:21 04:31:04"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2014:02:21 04:31:04"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "6965784/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "4970854/1000000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/6"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "36/10"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "180/10"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "20"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "20"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "1/1"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 27
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "SubjectDistanceRange",
+          "value": 0
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/窗光中的空间与冷暖/02.jpg",
+      "commons_title": "File:View of Aarhus seen from inside Dokk1 Aarhus Main Library Denmark 03.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_Aarhus_seen_from_inside_Dokk1_Aarhus_Main_Library_Denmark_03.jpg",
+      "author": "Ciara Ní Riain",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/View_of_Aarhus_seen_from_inside_Dokk1_Aarhus_Main_Library_Denmark_03.jpg/1280px-View_of_Aarhus_seen_from_inside_Dokk1_Aarhus_Main_Library_Denmark_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/View_of_Aarhus_seen_from_inside_Dokk1_Aarhus_Main_Library_Denmark_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "b0134857eda02334125aa599bc4b617411ba63da",
+      "sha256": "73ad6aaf234add311428bffa0f6920ba3066a6fc6a593ec9ab7801039da5795a",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "samsung"
+        },
+        {
+          "name": "Model",
+          "value": "SM-A515F"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "A515FXXU8HWI1"
+        },
+        {
+          "name": "DateTime",
+          "value": "2024:02:17 11:59:13"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/514"
+        },
+        {
+          "name": "FNumber",
+          "value": "11/5"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 40
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0220"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2024:02:17 11:59:13"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2024:02:17 11:59:13"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "227/100"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "184/25"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "227/100"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 2
+        },
+        {
+          "name": "Flash",
+          "value": 0
+        },
+        {
+          "name": "FocalLength",
+          "value": "87/50"
+        },
+        {
+          "name": "SubSecTime",
+          "value": "107"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "107"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "107"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "1/1"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 13
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/窗光中的空间与冷暖/03.jpg",
+      "commons_title": "File:20110504-RD-LSC-0513 - Flickr - USDAgov.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:20110504-RD-LSC-0513_-_Flickr_-_USDAgov.jpg",
+      "author": "U.S. Department of Agriculture",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/20110504-RD-LSC-0513_-_Flickr_-_USDAgov.jpg/1280px-20110504-RD-LSC-0513_-_Flickr_-_USDAgov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/20110504-RD-LSC-0513_-_Flickr_-_USDAgov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "4679de677087316bd249d6f5249f13f50f097936",
+      "sha256": "a1df9dba41a311f856fd6e06f10d2ef5c0e4d7dedd41bf5b30be00a742473643",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "NIKON CORPORATION"
+        },
+        {
+          "name": "Model",
+          "value": "NIKON D300"
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Bridge CS5"
+        },
+        {
+          "name": "DateTime",
+          "value": "2011:10:10 23:33:38"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/250"
+        },
+        {
+          "name": "FNumber",
+          "value": "13/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 320
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0221"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2011:05:04 14:10:18"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "7965784/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "7400879/1000000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "-2/6"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "30/10"
+        },
+        {
+          "name": "SubjectDistance",
+          "value": "150/100"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 2
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 15
+        },
+        {
+          "name": "FocalLength",
+          "value": "170/10"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "86"
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "1/1"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 25
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "SubjectDistanceRange",
+          "value": 0
+        },
+        {
+          "name": "SerialNumber",
+          "value": "3163411"
+        },
+        {
+          "name": "Lens",
+          "value": "17.0-35.0 mm f/2.8"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2011:05:04 10:10:18"
+        },
+        {
+          "name": "Label",
+          "value": "Review"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2011:10:10 19:33:38"
+        },
+        {
+          "name": "Rating",
+          "value": "5"
+        },
+        {
+          "name": "Copyrighted",
+          "value": "False"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "xmp.did:89E259D51020681188C6C1CDE10AF9F8"
+        },
+        {
+          "name": "UsageTerms",
+          "value": "www.usda.gov\n\n"
+        },
+        {
+          "name": "Contact",
+          "value": "[mailto:lance.cheung@oc.usda.gov <span class=\"email\">lance.cheung@oc.usda.gov</span>]\n\n<span class=\"url\">www.flickr.com/photos/usdagov</span>\n<div class=\"adr\">\n<span class=\"extended-address\">1400 Independence Avenue, SW</span>\n\n<span class=\"locality\">Washington</span>, <span class=\"region\">District of Columbia</span>, <span class=\"postal-code\">202150</span> <span class=\"country-name\">USA</span>\n</div>\n"
+        },
+        {
+          "name": "ImageDescription",
+          "value": "Cooper Vineyards in Louisa, VA is the first winery on the East Coast and the second in the country to be awarded the fourth and highest, Platinum certification by Leadership in Energy and Environmental Design  (LEED).From a Virginia Wine Board Marketing Office press release,“The process of building a LEED platinum certified building was initially more expensive and arduous than co-owners, Jacque Hogge, MD and Geoffrey Cooper, MD expected, but they were able to get financial assistance from the United States Department of Agriculture. “Know that there are grants available to help with the costs of sustainable building projects,” Hogge advises to other potential green wineries. Cooper Vineyards received 2 of the 3 USDA (U.S. Department of Agriculture Rural Development (RD) Rural Energy Financing program) grants awarded in Virginia in 2010 to help with the expenses of their construction.”Rural Energy Financing program focuses on loan guarantees, loans and grants to agricultural producers, businesses, cooperatives and rural residents for renewable energy systems and to make energy efficiency improvements.The tasting room and building collects rainwater from the roof; uses low flow water fixtures to reduce usage by 40%; utilizes structurally insulated panels for the roof and walls; heats and cools the entire building using a geothermal system that includes pipes that are embedded in the parking lot; low-voltage LED lighting with daylight and occupancy sensors provide ample light when it is needed; a solar panel array provides more than 15% of the energy needs for the building, and much of the construction materials are from local and recycled material sources.  For more information about USDA please go to www.usda.gov,  Rural Development and Rural Energy Financing.  LEED was developed by the U.S. Green Building Council (USGBC) is a 501 c3 non-profit organization committed to a prosperous and sustainable future for our nation through cost-efficient and energy-saving green buildings. USDA Photo by Lance Cheung.\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "\n*USDA\n*Department of Agriculture"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/窗光中的空间与冷暖/04.jpg",
+      "commons_title": "File:Blue walls and mirror in house Den Gamle By Old Town Museum Aarhus Denmark.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Blue_walls_and_mirror_in_house_Den_Gamle_By_Old_Town_Museum_Aarhus_Denmark.jpg",
+      "author": "Ciara Ní Riain",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Blue_walls_and_mirror_in_house_Den_Gamle_By_Old_Town_Museum_Aarhus_Denmark.jpg/1280px-Blue_walls_and_mirror_in_house_Den_Gamle_By_Old_Town_Museum_Aarhus_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Blue_walls_and_mirror_in_house_Den_Gamle_By_Old_Town_Museum_Aarhus_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "1812d49ae40ef758f9d310612a6cd7842ed23ce6",
+      "sha256": "91f92e1ee469516d80ca4719e08eb4a94af7466e406bc108c2faaabcca685dda",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "samsung"
+        },
+        {
+          "name": "Model",
+          "value": "SM-J330F"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "J330FXXU3BRL2"
+        },
+        {
+          "name": "DateTime",
+          "value": "2019:03:08 12:45:03"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/50"
+        },
+        {
+          "name": "FNumber",
+          "value": "19/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 50
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0220"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2019:03:08 12:45:03"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2019:03:08 12:45:03"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "141/25"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "37/20"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "331/100"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "37/20"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 2
+        },
+        {
+          "name": "Flash",
+          "value": 0
+        },
+        {
+          "name": "FocalLength",
+          "value": "18/5"
+        },
+        {
+          "name": "SubSecTime",
+          "value": "0719"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "0719"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "0719"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 27
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/窗光中的空间与冷暖/05.jpg",
+      "commons_title": "File:Skansen w Maurzycach, Łowicki Park Etnograficzny w Maurzycach, 2025, SOULinPIX, KsP 207.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Skansen_w_Maurzycach%2C_%C5%81owicki_Park_Etnograficzny_w_Maurzycach%2C_2025%2C_SOULinPIX%2C_KsP_207.jpg",
+      "author": "Krzysztof Popławski",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Skansen_w_Maurzycach%2C_%C5%81owicki_Park_Etnograficzny_w_Maurzycach%2C_2025%2C_SOULinPIX%2C_KsP_207.jpg/1280px-Skansen_w_Maurzycach%2C_%C5%81owicki_Park_Etnograficzny_w_Maurzycach%2C_2025%2C_SOULinPIX%2C_KsP_207.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Skansen_w_Maurzycach%2C_%C5%81owicki_Park_Etnograficzny_w_Maurzycach%2C_2025%2C_SOULinPIX%2C_KsP_207.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "459db8578c6d70ad1797c59f23727488a65fad41",
+      "sha256": "9ac2014412b83bdbab336a956892d65cb55d9772a68857dc4161f31b3c064bda",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "SONY"
+        },
+        {
+          "name": "Model",
+          "value": "ILCE-7M4"
+        },
+        {
+          "name": "XResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Camera Raw 17.5 (Macintosh)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2025:10:30 10:52:39"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/200"
+        },
+        {
+          "name": "FNumber",
+          "value": "4/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 10000
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0232"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2025:07:24 12:46:47"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2025:07:24 12:46:47"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "7643856/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "4/1"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "-1736/2560"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/10"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "1024/256"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "160/10"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "846"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "846"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "64449339/32768"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "64449339/32768"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 3
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "16/16"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 16
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "Lens",
+          "value": "FE PZ 16-35mm F4 G"
+        },
+        {
+          "name": "Rating",
+          "value": "1"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2025:10:30 11:52:39"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "DB95CAC1A1AE6A1F181387B24BB7F6AC"
+        },
+        {
+          "name": "Artist",
+          "value": "Krzysztof Popławski"
+        },
+        {
+          "name": "Copyright",
+          "value": "©Krzysztof Popławski\n\n"
+        },
+        {
+          "name": "Contact",
+          "value": "\n\n<span class=\"url\">https://www.instagram.com/soulinpix/</span>\n<div class=\"adr\">\n\n\n, ,  \n</div>\n"
+        },
+        {
+          "name": "CityDest",
+          "value": "Maurzyce"
+        },
+        {
+          "name": "CountryDest",
+          "value": "Polska"
+        },
+        {
+          "name": "CountryCodeDest",
+          "value": "PL"
+        },
+        {
+          "name": "SublocationDest",
+          "value": "Łowicki Park Etnograficzny w Maurzycach"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/秋冬水面的虚实与色块/01.jpg",
+      "commons_title": "File:Scenery of the pond at Shitennō-ji Honbō Park in Osaka, November 2015.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Scenery_of_the_pond_at_Shitenn%C5%8D-ji_Honb%C5%8D_Park_in_Osaka%2C_November_2015.jpg",
+      "author": "Laitche",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Scenery_of_the_pond_at_Shitenn%C5%8D-ji_Honb%C5%8D_Park_in_Osaka%2C_November_2015.jpg/1280px-Scenery_of_the_pond_at_Shitenn%C5%8D-ji_Honb%C5%8D_Park_in_Osaka%2C_November_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Scenery_of_the_pond_at_Shitenn%C5%8D-ji_Honb%C5%8D_Park_in_Osaka%2C_November_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "75d1d1dd68af9f6772752b45533b71711318ff11",
+      "sha256": "185f5f2e956e26a33b866562f379635a81d4eab6efb88eb57f83d341e645ff40",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "ImageWidth",
+          "value": 3648
+        },
+        {
+          "name": "ImageLength",
+          "value": 5472
+        },
+        {
+          "name": "BitsPerSample",
+          "value": "\n*8\n*8\n*8"
+        },
+        {
+          "name": "Compression",
+          "value": 1
+        },
+        {
+          "name": "PhotometricInterpretation",
+          "value": 2
+        },
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon EOS 6D"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "SamplesPerPixel",
+          "value": 3
+        },
+        {
+          "name": "XResolution",
+          "value": "3500000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "3500000/10000"
+        },
+        {
+          "name": "PlanarConfiguration",
+          "value": 1
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CC 2015 (Windows)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2015:11:28 03:19:26"
+        },
+        {
+          "name": "Artist",
+          "value": "Laitche"
+        },
+        {
+          "name": "Copyright",
+          "value": "Laitche, CC BY-SA 4.0 / FAL\n\n"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/13"
+        },
+        {
+          "name": "FNumber",
+          "value": "11/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2015:11:27 15:34:47"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2015:11:27 15:34:47"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "370044/100000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "6918863/1000000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "-5/3"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "4/1"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 6
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "75/1"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "00"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "00"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "49807360/32768"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "49807360/32768"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 3
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GPSLatitude",
+          "value": 34.65528
+        },
+        {
+          "name": "GPSLongitude",
+          "value": 135.51808833333334
+        },
+        {
+          "name": "GPSAltitude",
+          "value": 47.7
+        },
+        {
+          "name": "GPSTimeStamp",
+          "value": "\n*6/1\n*34/1\n*34000/1000"
+        },
+        {
+          "name": "GPSSatellites",
+          "value": "12"
+        },
+        {
+          "name": "GPSStatus",
+          "value": "A"
+        },
+        {
+          "name": "GPSMeasureMode",
+          "value": "3"
+        },
+        {
+          "name": "GPSMapDatum",
+          "value": "WGS-84"
+        },
+        {
+          "name": "GPSDateStamp",
+          "value": "2015:11:27"
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "0.0.3.2"
+        },
+        {
+          "name": "Lens",
+          "value": "EF70-200mm f/4L IS USM"
+        },
+        {
+          "name": "SerialNumber",
+          "value": "061025004519"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2015:11:28 12:19:26"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "DD9BFBBEE1745851C345738719C5CC28"
+        },
+        {
+          "name": "Writer",
+          "value": "Laitche"
+        },
+        {
+          "name": "Copyrighted",
+          "value": "True"
+        },
+        {
+          "name": "WebStatement",
+          "value": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "ObjectName",
+          "value": "Scenery of the pond at Shitennō-ji Honbō Park in Osaka, November 2015.\n\n"
+        },
+        {
+          "name": "ImageDescription",
+          "value": "Scenery of the pond at Shitennō-ji Honbō Park in Osaka, November 2015.\n\n"
+        },
+        {
+          "name": "CountryCodeDest",
+          "value": "JP"
+        },
+        {
+          "name": "SublocationDest",
+          "value": "四天王寺"
+        },
+        {
+          "name": "CityDest",
+          "value": "大阪市"
+        },
+        {
+          "name": "ProvinceOrStateDest",
+          "value": "大阪府"
+        },
+        {
+          "name": "CountryDest",
+          "value": "日本"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/秋冬水面的虚实与色块/02.jpg",
+      "commons_title": "File:Scenery of Shinji pond at Expo’70 Commemorative Park in Osaka.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Scenery_of_Shinji_pond_at_Expo%E2%80%9970_Commemorative_Park_in_Osaka.jpg",
+      "author": "Laitche",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Scenery_of_Shinji_pond_at_Expo%E2%80%9970_Commemorative_Park_in_Osaka.jpg/1280px-Scenery_of_Shinji_pond_at_Expo%E2%80%9970_Commemorative_Park_in_Osaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Scenery_of_Shinji_pond_at_Expo%E2%80%9970_Commemorative_Park_in_Osaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "e733260f0825561a238e859cdc08895959fbda6c",
+      "sha256": "9861d99e0e7a72e8e31df6b5241ce0849ff3407768f0acaf92b5b6e285e82061",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "ImageWidth",
+          "value": 3648
+        },
+        {
+          "name": "ImageLength",
+          "value": 5472
+        },
+        {
+          "name": "BitsPerSample",
+          "value": "\n*8\n*8\n*8"
+        },
+        {
+          "name": "Compression",
+          "value": 1
+        },
+        {
+          "name": "PhotometricInterpretation",
+          "value": 2
+        },
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon EOS 6D"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "SamplesPerPixel",
+          "value": 3
+        },
+        {
+          "name": "XResolution",
+          "value": "3500000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "3500000/10000"
+        },
+        {
+          "name": "PlanarConfiguration",
+          "value": 1
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CC 2015 (Windows)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2015:11:23 23:24:20"
+        },
+        {
+          "name": "Artist",
+          "value": "Laitche"
+        },
+        {
+          "name": "Copyright",
+          "value": "Laitche, CC BY-SA 4.0 / FAL\n\n"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/25"
+        },
+        {
+          "name": "FNumber",
+          "value": "11/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2015:10:26 16:36:31"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2015:10:26 16:36:31"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "4643856/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "6918863/1000000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "-2/1"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "4/1"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 6
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "135/1"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "00"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "49807360/32768"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "49807360/32768"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 3
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GPSLatitude",
+          "value": 34.81339166666667
+        },
+        {
+          "name": "GPSLongitude",
+          "value": 135.53312333333332
+        },
+        {
+          "name": "GPSAltitude",
+          "value": 45.8
+        },
+        {
+          "name": "GPSTimeStamp",
+          "value": "\n*7/1\n*34/1\n*12999/1000"
+        },
+        {
+          "name": "GPSSatellites",
+          "value": "9"
+        },
+        {
+          "name": "GPSStatus",
+          "value": "A"
+        },
+        {
+          "name": "GPSMeasureMode",
+          "value": "3"
+        },
+        {
+          "name": "GPSDOP",
+          "value": "500/10"
+        },
+        {
+          "name": "GPSMapDatum",
+          "value": "WGS-84"
+        },
+        {
+          "name": "GPSDateStamp",
+          "value": "2015:10:26"
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "0.0.3.2"
+        },
+        {
+          "name": "Lens",
+          "value": "EF70-200mm f/4L IS USM"
+        },
+        {
+          "name": "SerialNumber",
+          "value": "061025004519"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2015:11:24 08:24:20"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "75E262E71863936278A9AFA41D751363"
+        },
+        {
+          "name": "Copyrighted",
+          "value": "True"
+        },
+        {
+          "name": "WebStatement",
+          "value": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Writer",
+          "value": "Laitche"
+        },
+        {
+          "name": "ImageDescription",
+          "value": "Scenery of Shinji pond at Expo’70 Commemorative Park in Osaka.\n\n"
+        },
+        {
+          "name": "ObjectName",
+          "value": "Scenery of Shinji pond at Expo’70 Commemorative Park in Osaka.\n\n"
+        },
+        {
+          "name": "CountryCodeDest",
+          "value": "JP"
+        },
+        {
+          "name": "SublocationDest",
+          "value": "千里万博公園"
+        },
+        {
+          "name": "CityDest",
+          "value": "吹田市"
+        },
+        {
+          "name": "ProvinceOrStateDest",
+          "value": "大阪府"
+        },
+        {
+          "name": "CountryDest",
+          "value": "日本"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/秋冬水面的虚实与色块/03.jpg",
+      "commons_title": "File:Marshfield Pond October 2021 003.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Marshfield_Pond_October_2021_003.jpg",
+      "author": "King of Hearts",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Marshfield_Pond_October_2021_003.jpg/1280px-Marshfield_Pond_October_2021_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Marshfield_Pond_October_2021_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "96fb873c88e5d973b9093bb24ef125ab70f6b66a",
+      "sha256": "a6e50194980d23b24d530a8dd85f8f4eae9a1f8c59eb037bd1ecd433484a1af2",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "NIKON CORPORATION"
+        },
+        {
+          "name": "Model",
+          "value": "NIKON D750"
+        },
+        {
+          "name": "XResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Lightroom 5.7.1 (Windows)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2021:10:15 21:59:33"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/50"
+        },
+        {
+          "name": "FNumber",
+          "value": "11/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 1
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2021:10:07 08:28:11"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2021:10:07 08:28:11"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "5643856/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "6918863/1000000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/6"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "0/10"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "1350/10"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "84"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "84"
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 1
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "1/1"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 135
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "SubjectDistanceRange",
+          "value": 0
+        },
+        {
+          "name": "SerialNumber",
+          "value": "3096830"
+        },
+        {
+          "name": "Lens",
+          "value": "0.0 mm f/0.0"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2021:10:15 17:59:33"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "5A06DA5BADFA251527A1A7878D6FDFF4"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/秋冬水面的虚实与色块/04.jpg",
+      "commons_title": "File:Thomson’s Pond, Isabella Plantation, autumn reflections.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Thomson%E2%80%99s_Pond%2C_Isabella_Plantation%2C_autumn_reflections.jpg",
+      "author": "AndyScott",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Thomson%E2%80%99s_Pond%2C_Isabella_Plantation%2C_autumn_reflections.jpg/1280px-Thomson%E2%80%99s_Pond%2C_Isabella_Plantation%2C_autumn_reflections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Thomson%E2%80%99s_Pond%2C_Isabella_Plantation%2C_autumn_reflections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "a06872df4cb26d9bc5da8fb2fd3674233c5fee64",
+      "sha256": "98b8c9f35cacd41e1d1444380efcebe087edf2829522b2ac46b96311f7efa7cb",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon IXUS 285 HS"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "DateTime",
+          "value": "2025:10:25 20:05:48"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/160"
+        },
+        {
+          "name": "FNumber",
+          "value": "45/10"
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 400
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2025:10:25 15:36:33"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2025:10:25 15:36:33"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "5/1"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "234/32"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "139/32"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/3"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "139/32"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 2
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "7725/1000"
+        },
+        {
+          "name": "SubSecTime",
+          "value": "61"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "61"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "61"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "5184000/245"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "3888000/184"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "5184/5184"
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-07/秋冬水面的虚实与色块/05.jpg",
+      "commons_title": "File:A pond with reflection in Golden Gate Park 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:A_pond_with_reflection_in_Golden_Gate_Park_2.jpg",
+      "author": "Brocken Inaglory",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/A_pond_with_reflection_in_Golden_Gate_Park_2.jpg/1280px-A_pond_with_reflection_in_Golden_Gate_Park_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/A_pond_with_reflection_in_Golden_Gate_Park_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "0bfe4322721f3185dd6b9bfbdfdfd39b84f93b12",
+      "sha256": "e2c66699b67618c6609184de941032a1ea006166f91b6aa3c1cfd075cef0c95c",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon EOS DIGITAL REBEL XTi"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "720000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "720000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CS3 Windows"
+        },
+        {
+          "name": "DateTime",
+          "value": "2009:11:17 16:23:16"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/20"
+        },
+        {
+          "name": "FNumber",
+          "value": "90/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0221"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2009:11:17 11:29:20"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2009:11:17 11:29:20"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "283242/65536"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "415488/65536"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "1/3"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "70/1"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "3888000/877"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "2592000/582"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "FlashpixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "2222"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "1481"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2009:11:17 08:23:16"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

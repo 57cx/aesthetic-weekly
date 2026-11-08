@@ -1,0 +1,15 @@
+{
+  "issue": "2026-11-07",
+  "photos": 20,
+  "pdfs": 5,
+  "pdf_pages": 27,
+  "historical_pdfs_checked": 220,
+  "historical_pdf_read_failures": 0,
+  "duplicate_source_title_matches": [],
+  "duplicate_git_blob_matches": 0,
+  "unique_current_photos": 20,
+  "image_decode_and_min_dimensions": "pass",
+  "all_pdf_pages_rendered": "pass",
+  "pdf_text_and_page_bounds": "pass",
+  "duplicate_check_scope": "Normalized Commons file titles against extracted text of all historical PDFs, plus exact Git blob hashes against historical JPG objects. This does not detect all visually similar or reuploaded photographs."
+}
