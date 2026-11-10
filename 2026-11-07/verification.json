@@ -2,7 +2,7 @@
   "issue": "2026-11-07",
   "photos": 20,
   "pdfs": 5,
-  "pdf_pages": 27,
+  "pdf_pages": 69,
   "historical_pdfs_checked": 220,
   "historical_pdf_read_failures": 0,
   "duplicate_source_title_matches": [],
@@ -11,5 +11,78 @@
   "image_decode_and_min_dimensions": "pass",
   "all_pdf_pages_rendered": "pass",
   "pdf_text_and_page_bounds": "pass",
-  "duplicate_check_scope": "Normalized Commons file titles against extracted text of all historical PDFs, plus exact Git blob hashes against historical JPG objects. This does not detect all visually similar or reuploaded photographs."
+  "duplicate_check_scope": "Normalized Commons file titles against extracted text of all historical PDFs, plus exact Git blob hashes against historical JPG objects. This does not detect all visually similar or reuploaded photographs.",
+  "revision": {
+    "date": "2026-11-10",
+    "kind": "nine-part deep analysis rewrite",
+    "photos_unchanged_sha256": "pass",
+    "sources_manifest_unchanged": "pass",
+    "photos_with_nine_sections": 20,
+    "analysis_hanzi_total": 24047,
+    "all_manuscript_paragraphs_present_in_pdfs": "pass",
+    "photo_three_page_structure": "pass",
+    "pdf_links": 39,
+    "all_pdf_pages_rendered": "pass",
+    "all_text_within_page_bounds": "pass",
+    "all_used_text_fonts_embedded_noto_sans_sc": "pass",
+    "font_license": "SIL Open Font License 1.1",
+    "website_tests": "3 passed",
+    "website_build": "45 weeks, 900 photographs",
+    "files": [
+      {
+        "path": "2026-11-07/本周导读.pdf",
+        "pages": 5,
+        "analysis_hanzi_per_photo": [],
+        "sha256": "d15378a6797d5126c70daf7e5189619316befff28a49be4e8dacf998378364c5"
+      },
+      {
+        "path": "2026-11-07/秋冬水面的虚实与色块/秋冬水面的虚实与色块_点评与思考.pdf",
+        "pages": 16,
+        "analysis_hanzi_per_photo": [
+          1212,
+          1225,
+          1213,
+          1217,
+          1240
+        ],
+        "sha256": "7ec733f41303ad0498357bc62b54826ca8acc6085de7847f23c11f01b6097508"
+      },
+      {
+        "path": "2026-11-07/窗光中的空间与冷暖/窗光中的空间与冷暖_点评与思考.pdf",
+        "pages": 16,
+        "analysis_hanzi_per_photo": [
+          1197,
+          1229,
+          1177,
+          1213,
+          1195
+        ],
+        "sha256": "d83a486a7f4d52314cfb9e3081a05e34970d4dd887ef315ed56c800a5f5c2ac0"
+      },
+      {
+        "path": "2026-11-07/裸树的线条与负空间/裸树的线条与负空间_点评与思考.pdf",
+        "pages": 16,
+        "analysis_hanzi_per_photo": [
+          1184,
+          1216,
+          1217,
+          1176,
+          1181
+        ],
+        "sha256": "3db2feb18e91ddc42859c7f14ca61de17c6eef7329e1e96efd851bc04331c2e8"
+      },
+      {
+        "path": "2026-11-07/霜叶的边缘与质感/霜叶的边缘与质感_点评与思考.pdf",
+        "pages": 16,
+        "analysis_hanzi_per_photo": [
+          1182,
+          1185,
+          1235,
+          1182,
+          1171
+        ],
+        "sha256": "0b81f512bc1191ea57e2c95e1004b39bb7a89b081e5a275648aabd7f838f1e69"
+      }
+    ]
+  }
 }
