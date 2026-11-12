@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Render one course issue, weekly or daily, from Markdown and sources.json.
 
+Daily issues dated 2026-11-13 onward must contain 2 to 6 topic folders.
+Fewer or more fails before any PDF is written. See tools/daily_rules.py.
+
 Usage:
   python tools/render_issue.py 2026-11-13 --font /path/to/NotoSansSC-Regular.ttf
   python tools/render_issue.py 2026-11-13 --font /path/to/NotoSansSC-Regular.ttf --write-verification
@@ -30,6 +33,8 @@ import urllib.parse
 import urllib.request
 from fractions import Fraction
 from pathlib import Path
+
+from daily_rules import validate_topic_count
 
 from PIL import Image as PILImage
 from reportlab.lib import colors
@@ -214,8 +219,9 @@ def topic_intro(daily, chapters):
         ('本题五张的阅读顺序', '\n'.join(chapter for chapter, _ in chapters)),
     ]
     if daily:
-        shared.append(('今天交一张', '导读里的练习是今天要拍的那张。每张范例末尾的模仿是同一地点可以继续做的对照；'
-                       '时间不够就只做导读里的一项，并把对照留在相机里。'))
+        shared.append(('今天这一课有好几个题材', '导读把今天的题材连成一件事。这一份点评只负责其中一个。'
+                       '每张范例末尾有一个当天能用套头完成的练习。时间紧就每个题材交一张，'
+                       '不要把一个题材里的五张都仿一遍。'))
     else:
         shared.append(('素材与阅读', 'Markdown原稿与PDF一起保存，便于搜索和后续更正。'
                        '先把一条原则练会，再读下一张。'))
@@ -226,7 +232,7 @@ def build_topic(folder, repo, issue, source_by_path, sty, banner, daily):
     title, chapters = manuscripts(folder / '解读原稿.md')
     if len(chapters) != 5:
         raise ValueError(f'{title}: expected 5 photos, got {len(chapters)}')
-    kind = '每日一题' if daily else '每周课题'
+    kind = '每日一课' if daily else '每周课题'
     story = [OutlineParagraph(escaped(title), sty['title'], 'topic', 0),
              Paragraph(f'{kind} · 5张范例 · 每张九项深入解读', sty['label'])]
     for heading, text in topic_intro(daily, chapters):
@@ -314,10 +320,12 @@ def render(issue_dir, font):
     _, by_path = load_sources(issue_dir, repo)
     guide_path = find_guide(issue_dir)
     daily = guide_path.name.startswith('今日')
-    banner = f'审美提升 · {issue_dir.name} · ' + ('每日一题' if daily else '每周课题')
+    banner = f'审美提升 · {issue_dir.name} · ' + ('每日一课' if daily else '每周课题')
+    folders = sorted(p.parent for p in issue_dir.glob('*/解读原稿.md'))
+    validate_topic_count(issue_dir.name, daily, len(folders))
     outputs = [build_guide(issue_dir, guide_path, sty, banner)]
     stats = []
-    for folder in sorted(p.parent for p in issue_dir.glob('*/解读原稿.md')):
+    for folder in folders:
         output, counts = build_topic(folder, repo, issue_dir.name, by_path, sty, banner, daily)
         outputs.append(output)
         stats.extend(counts)

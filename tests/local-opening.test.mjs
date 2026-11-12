@@ -25,7 +25,7 @@ test('local opening renders courses without fetch or module support', async()=>{
   assert.equal(get('#progress-count').textContent,'0 / 44');
   assert.equal(get('#notice').textContent,'');
 });
-test('the published 2026-11-13 daily issue is discovered',async()=>{const weeks=catalog(await collectEntries());const day=weeks.find(w=>w.date==='2026-11-13');assert.ok(day);assert.equal(day.topics.length,1);assert.equal(day.topics[0].title,'落叶地面的方向与疏密');assert.equal(day.topics[0].photos.length,5);assert.equal(day.topics[0].documents.length,1);assert.match(day.documents[0],/今日导读\.pdf$/);});
+test('the published 2026-11-13 daily issue is discovered',async()=>{const weeks=catalog(await collectEntries());const day=weeks.find(w=>w.date==='2026-11-13');assert.ok(day);assert.equal(day.topics.length,3);assert.deepEqual(day.topics.map(t=>t.title).sort(),['沟、箅子与横档拦住落叶','落叶地面的方向与疏密','落叶被收成一条或一堆'].sort());for(const topic of day.topics){assert.equal(topic.photos.length,5);assert.equal(topic.documents.length,1);}assert.match(day.documents[0],/今日导读\.pdf$/);});
 test('opening a daily issue says today',async()=>{
   class Element {
     constructor(){this.children=[];this.value='';this.textContent='';}
@@ -46,5 +46,5 @@ test('opening a daily issue says today',async()=>{
   vm.runInContext(await readFile('app.js','utf8'),context);
   const heading=get('#lesson').children.flatMap(n=>n.children||[]).flatMap(n=>n.children||[]).find(n=>n.textContent.includes('看见'));
   assert.equal(heading.textContent,'今天，认真看见。');
-  assert.match(get('#courses').children[0].children[0].children.at(-1).textContent,/每日一题/);
+  assert.match(get('#courses').children[0].children[0].children.at(-1).textContent,/每日一课/);
 });
