@@ -1,12 +1,12 @@
 {
   "issue": "2026-11-13",
   "kind": "daily",
-  "photos": 5,
-  "pdfs": 2,
-  "pdf_pages": 20,
+  "photos": 15,
+  "pdfs": 4,
+  "pdf_pages": 52,
   "duplicate_source_title_matches": [],
   "duplicate_sha256_matches": [],
-  "unique_current_photos": 5,
+  "unique_current_photos": 15,
   "image_decode_and_min_dimensions": "pass",
   "source_pages_authors_licenses": [
     {
@@ -33,22 +33,84 @@
       "source": "https://commons.wikimedia.org/wiki/File:2022-10-25_08_57_34_Fallen_Red_Maple_leaves_on_a_lawn_in_autumn_along_Aquetong_Lane_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
       "author": "Famartin",
       "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Beech_leaves_and_drain_-_geograph.org.uk_-_8192243.jpg",
+      "author": "Philip Halling",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Leaf_In_The_Gutter_(125265545).jpeg",
+      "author": "Arthur Karbowski",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Autumn_leaves_by_Bad_Homburg_Way_-_geograph.org.uk_-_5174182.jpg",
+      "author": "David Smith",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Graben_Malchow.jpg",
+      "author": "Geoprofi Lars",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Autumn_Fence_Line.jpg",
+      "author": "wiki.cullin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Leaf_collection_in_a_garden.jpg",
+      "author": "Dan4th Nicholas",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Pile_of_leaves_001.jpg",
+      "author": "Jeuwre",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Heilbronn_-_B%C3%B6ckingen_-_Friedhof_-_Laubhaufen_und_Baumsilhouetten_(1).jpg",
+      "author": "Roman Eisele",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Laubdeponie,_Gartenanlage_Steinhof,_Wien.JPG",
+      "author": "Wald1siedel",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Laubhaufen_Hans-Baluschek-Park_20151229_75.jpg",
+      "author": "Sebastian Rittau",
+      "license": "CC BY 4.0"
     }
   ],
   "all_pdf_pages_rendered": "pass",
   "pdf_text_and_page_bounds": "pass",
   "photo_three_page_structure": {
-    "2026-11-13/落叶地面的方向与疏密/落叶地面的方向与疏密_点评与思考.pdf": 5
+    "2026-11-13/沟、箅子与横档拦住落叶/沟、箅子与横档拦住落叶_点评与思考.pdf": 5,
+    "2026-11-13/落叶地面的方向与疏密/落叶地面的方向与疏密_点评与思考.pdf": 5,
+    "2026-11-13/落叶被收成一条或一堆/落叶被收成一条或一堆_点评与思考.pdf": 5
   },
-  "photos_with_nine_sections": 5,
+  "photos_with_nine_sections": 15,
   "analysis_hanzi_per_photo": [
+    1049,
+    1002,
+    1008,
+    1004,
+    1005,
     1244,
     1219,
     1226,
     1241,
-    1267
+    1267,
+    1007,
+    1020,
+    1015,
+    1001,
+    1006
   ],
-  "analysis_hanzi_total": 6197,
+  "analysis_hanzi_total": 16314,
   "all_manuscript_paragraphs_present_in_pdfs": "pass",
   "all_used_text_fonts_embedded_noto_sans_sc": "pass",
   "font_license": "SIL Open Font License 1.1",
@@ -56,18 +118,43 @@
     {
       "path": "2026-11-13/今日导读.pdf",
       "pages": 4,
-      "sha256": "a8f05a29c884ceee27bbc406955d8e90675b0ce6f1aaec6dca96102922ab9d09",
+      "sha256": "2e9396d676ddfbb5c0107bf10a10f45c45eb3bf28592ed842292ffcc40ccde78",
       "fonts": [
         "/AAAAAA+NotoSansSC-Regular",
         "/AAAAAB+NotoSansSC-Regular",
-        "/AAAAAC+NotoSansSC-Regular",
         "/Helvetica"
       ]
     },
     {
+      "path": "2026-11-13/沟、箅子与横档拦住落叶/沟、箅子与横档拦住落叶_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "bb8de1d6827a5efdf8459e68e76bd528846c251b79ed3ec5bf1693f794025d4b",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/AAAAAD+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
       "path": "2026-11-13/落叶地面的方向与疏密/落叶地面的方向与疏密_点评与思考.pdf",
       "pages": 16,
-      "sha256": "09274d14da55472765130101d5667460a7a665dac0c6b6c465c1772b7f552359",
+      "sha256": "feb6064a69ea3382e1cbf86f59c80797c3c865377be38b3ba423babee669048d",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/AAAAAD+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-13/落叶被收成一条或一堆/落叶被收成一条或一堆_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "eafdb343d802cb61f55fa78fb1fa046a03c971170b1a8f4f0db59ab3143f3ca1",
       "fonts": [
         "/AAAAAA+NotoSansSC-Regular",
         "/AAAAAB+NotoSansSC-Regular",
