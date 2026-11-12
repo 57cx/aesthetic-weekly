@@ -1,0 +1,81 @@
+{
+  "issue": "2026-11-13",
+  "kind": "daily",
+  "photos": 5,
+  "pdfs": 2,
+  "pdf_pages": 20,
+  "duplicate_source_title_matches": [],
+  "duplicate_sha256_matches": [],
+  "unique_current_photos": 5,
+  "image_decode_and_min_dimensions": "pass",
+  "source_pages_authors_licenses": [
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Dried_leaves_on_sidewalk_and_cycle_lane,_Manuel_da_Maia_Avenue,_Lisbon,_Portugal_julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Fallen_autumn_leaves_in_a_lawn,_Alameda_Dom_Afonso_Henriques,_Lisbon,_Portugal_julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Path_Covered_with_Autumn_Leaves.jpg",
+      "author": "Sydforce",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:%E9%BB%84%E9%87%91%E8%89%B2%E3%81%AE%E7%B5%A8%E6%AF%AF_Golden_Carpet_(8199054216).jpg",
+      "author": "Yuya Sekiguchi",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:2022-10-25_08_57_34_Fallen_Red_Maple_leaves_on_a_lawn_in_autumn_along_Aquetong_Lane_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "all_pdf_pages_rendered": "pass",
+  "pdf_text_and_page_bounds": "pass",
+  "photo_three_page_structure": {
+    "2026-11-13/落叶地面的方向与疏密/落叶地面的方向与疏密_点评与思考.pdf": 5
+  },
+  "photos_with_nine_sections": 5,
+  "analysis_hanzi_per_photo": [
+    1244,
+    1219,
+    1226,
+    1241,
+    1267
+  ],
+  "analysis_hanzi_total": 6197,
+  "all_manuscript_paragraphs_present_in_pdfs": "pass",
+  "all_used_text_fonts_embedded_noto_sans_sc": "pass",
+  "font_license": "SIL Open Font License 1.1",
+  "files": [
+    {
+      "path": "2026-11-13/今日导读.pdf",
+      "pages": 4,
+      "sha256": "a8f05a29c884ceee27bbc406955d8e90675b0ce6f1aaec6dca96102922ab9d09",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ]
+    },
+    {
+      "path": "2026-11-13/落叶地面的方向与疏密/落叶地面的方向与疏密_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "09274d14da55472765130101d5667460a7a665dac0c6b6c465c1772b7f552359",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/AAAAAD+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    }
+  ]
+}
