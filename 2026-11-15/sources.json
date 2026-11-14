@@ -1,0 +1,4301 @@
+{
+  "issue": "2026-11-15",
+  "photos": [
+    {
+      "path": "2026-11-15/枝影折过墙与地面/01.jpg",
+      "commons_title": "File:Münster, Ringoldsgasse -- 2020 -- 6739.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Münster,_Ringoldsgasse_--_2020_--_6739.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/M%C3%BCnster%2C_Ringoldsgasse_--_2020_--_6739.jpg/1920px-M%C3%BCnster%2C_Ringoldsgasse_--_2020_--_6739.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/M%C3%BCnster%2C_Ringoldsgasse_--_2020_--_6739.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "bddac182cf01d4ed5a7a59aca172971432f85744",
+      "sha256": "2e795973fa1e386c0292a7114a5196b7bfa7a7e4f5a8fa388e901ff221141b8d",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon EOS 5D Mark IV"
+        },
+        {
+          "name": "XResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Lightroom Classic 9.2.1 (Macintosh)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2020:04:23 08:13:13"
+        },
+        {
+          "name": "Artist",
+          "value": "Dietmar Rabich"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/320"
+        },
+        {
+          "name": "FNumber",
+          "value": "8/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 200
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0231"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2020:04:21 09:56:36"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2020:04:21 09:56:36"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "8321928/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "6/1"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "1/1"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "20/1"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "44"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "44"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "61166933/32768"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "61166933/32768"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 3
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GPSLatitude",
+          "value": 51.960901666666665
+        },
+        {
+          "name": "GPSLongitude",
+          "value": 7.631551666666667
+        },
+        {
+          "name": "GPSAltitude",
+          "value": 64.9
+        },
+        {
+          "name": "GPSTimeStamp",
+          "value": "\n*7/1\n*56/1\n*27897/1000"
+        },
+        {
+          "name": "GPSSatellites",
+          "value": "10"
+        },
+        {
+          "name": "GPSStatus",
+          "value": "A"
+        },
+        {
+          "name": "GPSMeasureMode",
+          "value": "3"
+        },
+        {
+          "name": "GPSDOP",
+          "value": "20/10"
+        },
+        {
+          "name": "GPSMapDatum",
+          "value": "WGS-84"
+        },
+        {
+          "name": "GPSDateStamp",
+          "value": "2020:04:21"
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "0.0.3.2"
+        },
+        {
+          "name": "SerialNumber",
+          "value": "123055001038"
+        },
+        {
+          "name": "Lens",
+          "value": "20mm F1.4 DG HSM | Art 015"
+        },
+        {
+          "name": "CameraOwnerName",
+          "value": "Dietmar Rabich"
+        },
+        {
+          "name": "Label",
+          "value": "Münster, Ringoldsgasse"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2020:04:23 10:13:13"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "63A2EEFA8A32416B31F74BFF6C1F9EBF"
+        },
+        {
+          "name": "Copyrighted",
+          "value": "True"
+        },
+        {
+          "name": "ObjectName",
+          "value": "Münster, Ringoldsgasse\n\n"
+        },
+        {
+          "name": "Copyright",
+          "value": "Dietmar Rabich, Dülmen\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "\n*Deutschland\n*Germany\n*Münster\n*Münsterland\n*Nordrhein-Westfalen\n*North Rhine-Westphalia"
+        },
+        {
+          "name": "Contact",
+          "value": "\n\n\n<div class=\"adr\">\n\n\n<span class=\"locality\">Dülmen</span>, <span class=\"region\">Nordrhein-Westfalen</span>, <span class=\"postal-code\">48249</span> <span class=\"country-name\">Deutschland</span>\n</div>\n"
+        },
+        {
+          "name": "CityDest",
+          "value": "Münster"
+        },
+        {
+          "name": "ProvinceOrStateDest",
+          "value": "Nordrhein-Westfalen"
+        },
+        {
+          "name": "CountryDest",
+          "value": "Deutschland"
+        },
+        {
+          "name": "CountryCodeDest",
+          "value": "DE"
+        },
+        {
+          "name": "SublocationDest",
+          "value": "Dom"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/枝影折过墙与地面/02.jpg",
+      "commons_title": "File:Eckernförde, Gudewerdtstraße -- 2023 -- 1042.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Eckernförde,_Gudewerdtstraße_--_2023_--_1042.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Eckernf%C3%B6rde%2C_Gudewerdtstra%C3%9Fe_--_2023_--_1042.jpg/1920px-Eckernf%C3%B6rde%2C_Gudewerdtstra%C3%9Fe_--_2023_--_1042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Eckernf%C3%B6rde%2C_Gudewerdtstra%C3%9Fe_--_2023_--_1042.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "147effb8ae14c441328f1875be11ee3d7b58e635",
+      "sha256": "422e55c6012e7dd324ba98e7c80aab7249c341160456b40f3cfcbd85869ba7c6",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon PowerShot G7 X Mark III"
+        },
+        {
+          "name": "XResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Lightroom Classic 12.4 (Macintosh)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2023:06:26 18:45:00"
+        },
+        {
+          "name": "Artist",
+          "value": "Dietmar Rabich"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/100"
+        },
+        {
+          "name": "FNumber",
+          "value": "11/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 125
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0231"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2023:06:18 17:36:32"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2023:06:18 16:36:32"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "6643856/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "6918863/1000000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "175/100"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 0
+        },
+        {
+          "name": "FocalLength",
+          "value": "8800/1000"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "28"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "135838255/32768"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "135838255/32768"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 3
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "5472/5472"
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GPSLatitude",
+          "value": 54.47130666666666
+        },
+        {
+          "name": "GPSLongitude",
+          "value": 9.838403333333334
+        },
+        {
+          "name": "GPSAltitude",
+          "value": 46.5
+        },
+        {
+          "name": "GPSTimeStamp",
+          "value": "\n*15/1\n*36/1\n*40000/1000"
+        },
+        {
+          "name": "GPSStatus",
+          "value": "A"
+        },
+        {
+          "name": "GPSMapDatum",
+          "value": "WGS-84"
+        },
+        {
+          "name": "GPSDateStamp",
+          "value": "2023:06:18"
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "0.0.3.2"
+        },
+        {
+          "name": "SerialNumber",
+          "value": "873051001299"
+        },
+        {
+          "name": "Lens",
+          "value": "8.8-36.8 mm"
+        },
+        {
+          "name": "Label",
+          "value": "Eckernförde, Gudewerdtstraße"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2023:06:26 20:45"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "57EAF9CD82501D9739AE0CABC1F51FEF"
+        },
+        {
+          "name": "Copyrighted",
+          "value": "True"
+        },
+        {
+          "name": "ObjectName",
+          "value": "Eckernförde, Gudewerdtstraße\n\n"
+        },
+        {
+          "name": "Copyright",
+          "value": "Dietmar Rabich, Dülmen\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "\n*Deutschland\n*Eckernförde\n*Germany\n*Schleswig-Holstein"
+        },
+        {
+          "name": "Contact",
+          "value": "\n\n\n<div class=\"adr\">\n\n\n<span class=\"locality\">Dülmen</span>, <span class=\"region\">Nordrhein-Westfalen</span>, <span class=\"postal-code\">48249</span> <span class=\"country-name\">Deutschland</span>\n</div>\n"
+        },
+        {
+          "name": "CityDest",
+          "value": "Eckernförde"
+        },
+        {
+          "name": "ProvinceOrStateDest",
+          "value": "Schleswig-Holstein"
+        },
+        {
+          "name": "CountryDest",
+          "value": "Deutschland"
+        },
+        {
+          "name": "CountryCodeDest",
+          "value": "DE"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/枝影折过墙与地面/03.jpg",
+      "commons_title": "File:Wall shadow (Unsplash).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wall_shadow_(Unsplash).jpg",
+      "author": "rawpixel.com rawpixel",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Wall_shadow_%28Unsplash%29.jpg/1920px-Wall_shadow_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Wall_shadow_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "e1cbe338f1b768e36052e8b22a2e169396bc8844",
+      "sha256": "3f01cc562e62e354c3dfc1a14d9c08a8cf1363b7eb419aba46767da20443e6f4",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "ImageWidth",
+          "value": 6000
+        },
+        {
+          "name": "ImageLength",
+          "value": 3000
+        },
+        {
+          "name": "BitsPerSample",
+          "value": "\n*16\n*16\n*16"
+        },
+        {
+          "name": "Compression",
+          "value": 1
+        },
+        {
+          "name": "PhotometricInterpretation",
+          "value": 2
+        },
+        {
+          "name": "ImageDescription",
+          "value": "Sunlight shade on concrete wall at the park\n\n"
+        },
+        {
+          "name": "Make",
+          "value": "NIKON CORPORATION"
+        },
+        {
+          "name": "Model",
+          "value": "NIKON D810"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "SamplesPerPixel",
+          "value": 3
+        },
+        {
+          "name": "XResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "PlanarConfiguration",
+          "value": 1
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "NIKON D810 Ver.1.11     "
+        },
+        {
+          "name": "DateTime",
+          "value": "2017:06:02 14:34:44"
+        },
+        {
+          "name": "Copyright",
+          "value": "Rawpixel Ltd.\n\n"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/1000"
+        },
+        {
+          "name": "FNumber",
+          "value": "25/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 1
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 200
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0221"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2017:03:31 14:57:34"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2017:03:31 14:57:34"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "9965784/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "2643856/1000000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/6"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "10/10"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 3
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "500/10"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "15"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "67122044/32768"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "67122044/32768"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 3
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 1
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 1
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "1/1"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 50
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "SubjectDistanceRange",
+          "value": 0
+        },
+        {
+          "name": "Lens",
+          "value": "50.0 mm f/1.4"
+        },
+        {
+          "name": "SerialNumber",
+          "value": "8516473"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2017:06:02 21:40:46"
+        },
+        {
+          "name": "Rating",
+          "value": "4"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "BE0E652CBE8C9AE3F2514F62B66AFA16"
+        },
+        {
+          "name": "ObjectName",
+          "value": "Sunlight shade on concrete wall at the park\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "\n*backgrounds\n*concrete\n*concrete wall\n*dirt\n*fall\n*leaves\n*outdoors\n*park\n*shade\n*shadow\n*soil\n*sunlight\n*sunny\n*tree\n*wall"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/枝影折过墙与地面/04.jpg",
+      "commons_title": "File:Sunlight and shadows of a tiny tree in Fall on a brick wall of Entrepotdok-buildings, Amsterdam city, along the canal Entrepotdok; on the border of the old city center of Amsterdam; urban photography, Fons Heijnsbroek 2013 (11132531654).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunlight_and_shadows_of_a_tiny_tree_in_Fall_on_a_brick_wall_of_Entrepotdok-buildings,_Amsterdam_city,_along_the_canal_Entrepotdok;_on_the_border_of_the_old_city_center_of_Amsterdam;_urban_photography,_Fons_Heijnsbroek_2013_(11132531654).jpg",
+      "author": "Fons Heijnsbroek from Amsterdam, Netherlands",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Sunlight_and_shadows_of_a_tiny_tree_in_Fall_on_a_brick_wall_of_Entrepotdok-buildings%2C_Amsterdam_city%2C_along_the_canal_Entrepotdok%3B_on_the_border_of_the_old_city_center_of_Amsterdam%3B_urban_photography%2C_Fons_Heijnsbroek_2013_%2811132531654%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sunlight_and_shadows_of_a_tiny_tree_in_Fall_on_a_brick_wall_of_Entrepotdok-buildings%2C_Amsterdam_city%2C_along_the_canal_Entrepotdok%3B_on_the_border_of_the_old_city_center_of_Amsterdam%3B_urban_photography%2C_Fons_Heijnsbroek_2013_%2811132531654%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "841ec54b6a4e52f741a2b054f52b13afa2e114d6",
+      "sha256": "0fcb7d8c54b8f775cfe7fc8a669e5c9ae51a5fce4cd1ef9a0e1def84f79a502a",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Panasonic"
+        },
+        {
+          "name": "Model",
+          "value": "DMC-GF3"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Elements 8.0 Windows"
+        },
+        {
+          "name": "DateTime",
+          "value": "2013:11:25 15:20:11"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "10/1250"
+        },
+        {
+          "name": "FNumber",
+          "value": "50/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 160
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2013:11:23 16:54:33"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2013:11:23 16:54:33"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "4/1"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "66/100"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "1115/256"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "240/10"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "0/10"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 48
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 1
+        },
+        {
+          "name": "Contrast",
+          "value": 2
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 2
+        },
+        {
+          "name": "FlashpixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "7069"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "5315"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2013:11:25 16:20:11"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "xmp.did:2E2A78BC5555E3118437DE29076C7029"
+        },
+        {
+          "name": "iimVersion",
+          "value": 32616
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/枝影折过墙与地面/05.jpg",
+      "commons_title": "File:Branches casting shadows on an old wooden barn in Rixö 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Branches_casting_shadows_on_an_old_wooden_barn_in_Rixö_1.jpg",
+      "author": "W.carter",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Branches_casting_shadows_on_an_old_wooden_barn_in_Rix%C3%B6_1.jpg/1920px-Branches_casting_shadows_on_an_old_wooden_barn_in_Rix%C3%B6_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Branches_casting_shadows_on_an_old_wooden_barn_in_Rix%C3%B6_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "67672f499bc0940e442338776d53ee9068e469f5",
+      "sha256": "c7be49115f994ab79f98edd84d34a6bedd03d7a6473581c52335278cb018621a",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "ImageWidth",
+          "value": 5472
+        },
+        {
+          "name": "ImageLength",
+          "value": 3648
+        },
+        {
+          "name": "BitsPerSample",
+          "value": "\n*8\n*8\n*8"
+        },
+        {
+          "name": "PhotometricInterpretation",
+          "value": 2
+        },
+        {
+          "name": "Make",
+          "value": "Panasonic"
+        },
+        {
+          "name": "Model",
+          "value": "DMC-FZ1000"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "SamplesPerPixel",
+          "value": 3
+        },
+        {
+          "name": "XResolution",
+          "value": "2400000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "2400000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop 21.2 (Windows)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2021:11:26 01:03:51"
+        },
+        {
+          "name": "Copyright",
+          "value": "CC BY-SA 4.0\n\n"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/640"
+        },
+        {
+          "name": "FNumber",
+          "value": "56/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 125
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0231"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2020:09:16 13:04:06"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2020:09:16 13:04:06"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "9321928/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "4970854/1000000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/100"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "904/256"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 2
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "1947/100"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "479"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "479"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "135838255/32768"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "135838255/32768"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 3
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "0/10"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 53
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 1
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "GPSLatitude",
+          "value": 58.363865483333335
+        },
+        {
+          "name": "GPSLongitude",
+          "value": 11.467034936666666
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "0.0.2.2"
+        },
+        {
+          "name": "SerialNumber",
+          "value": "F961511170128"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2021:11:26 02:03:51"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "FBF73C51A8D5E31BAA4E3584E82A1D7C"
+        },
+        {
+          "name": "Artist",
+          "value": "Ann-Sophie Qvarnström"
+        },
+        {
+          "name": "ObjectName",
+          "value": "Branches casting shadows on an old wooden barn in Rixö 1\n\n"
+        },
+        {
+          "name": "ImageDescription",
+          "value": "Old wooden barn in Rixö, Lysekil Municipality, Sweden.\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "\n*Lysekil Municipality\n*Sweden\n*falu red\n*old barn\n*rixö\n*shadows\n*tree\n*wooden"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/栏杆影子的斜向重复/01.jpg",
+      "commons_title": "File:2010-03-14 Railing shadow in Durham.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2010-03-14_Railing_shadow_in_Durham.jpg",
+      "author": "Ildar Sagdejev (Specious)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/2010-03-14_Railing_shadow_in_Durham.jpg/1920px-2010-03-14_Railing_shadow_in_Durham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/2010-03-14_Railing_shadow_in_Durham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "f259133a99b1741131f7bbf99b93179fdaa67a14",
+      "sha256": "77e0a87a540160922ff2bc4940417b3456eb2f54b7735150f1a75c2970eb3cfe",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon EOS DIGITAL REBEL XTi"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "GIMP 2.6.8"
+        },
+        {
+          "name": "DateTime",
+          "value": "2010:03:17 17:29:49"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/125"
+        },
+        {
+          "name": "FNumber",
+          "value": "10/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0221"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2010:03:14 14:38:17"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2010:03:14 14:38:17"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "456510/65536"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "435412/65536"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/3"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "50/1"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "3888000/877"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "2592000/582"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 1
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/栏杆影子的斜向重复/02.jpg",
+      "commons_title": "File:2015-365-69 Keeping The Parallels (16756249196).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2015-365-69_Keeping_The_Parallels_(16756249196).jpg",
+      "author": "cogdogblog",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2015-365-69_Keeping_The_Parallels_%2816756249196%29.jpg/1920px-2015-365-69_Keeping_The_Parallels_%2816756249196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/2015-365-69_Keeping_The_Parallels_%2816756249196%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "ed556a10820d139f875dc28c7eb0ae681b8b8cd8",
+      "sha256": "7dfeb0704287ed0952970d1e1c9729f9c2831f749361c4d6f35f2269257a1cce",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Apple"
+        },
+        {
+          "name": "Model",
+          "value": "iPhone 5"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Aperture 3.5.1"
+        },
+        {
+          "name": "DateTime",
+          "value": "2015:03:10 14:23:08"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/1427"
+        },
+        {
+          "name": "FNumber",
+          "value": "12/5"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 50
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0221"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2015:03:10 14:23:08"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2015:03:10 14:23:08"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "12071/1152"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "4845/1918"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "21896/2221"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 24
+        },
+        {
+          "name": "FocalLength",
+          "value": "103/25"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "109"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "109"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 33
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GPSLatitude",
+          "value": 50.67234444444444
+        },
+        {
+          "name": "GPSLongitude",
+          "value": -120.36702777777776
+        },
+        {
+          "name": "GPSAltitude",
+          "value": 523.7933333333333
+        },
+        {
+          "name": "GPSTimeStamp",
+          "value": "\n*21/1\n*23/1\n*7/1"
+        },
+        {
+          "name": "GPSSpeedRef",
+          "value": "K"
+        },
+        {
+          "name": "GPSSpeed",
+          "value": "0/1"
+        },
+        {
+          "name": "GPSImgDirectionRef",
+          "value": "M"
+        },
+        {
+          "name": "GPSImgDirection",
+          "value": "24847/172"
+        },
+        {
+          "name": "GPSDestBearingRef",
+          "value": "M"
+        },
+        {
+          "name": "GPSDestBearing",
+          "value": "43802/135"
+        },
+        {
+          "name": "GPSDateStamp",
+          "value": "2015:03:10"
+        },
+        {
+          "name": "Headline",
+          "value": "2015/365/69 Keeping The Parallels"
+        },
+        {
+          "name": "Artist",
+          "value": "Alan Levine"
+        },
+        {
+          "name": "Keywords",
+          "value": "\n*2015365\n*shadow"
+        },
+        {
+          "name": "ImageDescription",
+          "value": "Light is very consistent...\n\n"
+        },
+        {
+          "name": "Copyright",
+          "value": "cc licensed ( BY-SA ) photo by Alan Levine\n\n"
+        },
+        {
+          "name": "Contact",
+          "value": "[mailto:cogdogblog@gmail.com <span class=\"email\">cogdogblog@gmail.com</span>]\n\n<span class=\"url\">http://cogdogblog.com/</span>\n<div class=\"adr\">\n\n\n<span class=\"locality\">Strawberry</span>, <span class=\"region\">AZ</span>,  \n</div>\n"
+        },
+        {
+          "name": "CountryDest",
+          "value": "Canada"
+        },
+        {
+          "name": "CityDest",
+          "value": "Kamloops"
+        },
+        {
+          "name": "ProvinceOrStateDest",
+          "value": "British Columbia"
+        },
+        {
+          "name": "iimVersion",
+          "value": 2
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/栏杆影子的斜向重复/03.jpg",
+      "commons_title": "File:Charleroi - Pont Roi Baudouin - été 2020 - ombres - 01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Charleroi_-_Pont_Roi_Baudouin_-_été_2020_-_ombres_-_01.jpg",
+      "author": "Jmh2o",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Charleroi_-_Pont_Roi_Baudouin_-_%C3%A9t%C3%A9_2020_-_ombres_-_01.jpg/1920px-Charleroi_-_Pont_Roi_Baudouin_-_%C3%A9t%C3%A9_2020_-_ombres_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Charleroi_-_Pont_Roi_Baudouin_-_%C3%A9t%C3%A9_2020_-_ombres_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "16a038bcf53ee66b9cea2a4282da6c34f3ced0fe",
+      "sha256": "c81d8d76582a289ca023da864c6320e4c004261672ca25aad96a25a35540f6cb",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "NIKON CORPORATION"
+        },
+        {
+          "name": "Model",
+          "value": "NIKON D5100"
+        },
+        {
+          "name": "Orientation",
+          "value": 0
+        },
+        {
+          "name": "XResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "DxO ViewPoint 2"
+        },
+        {
+          "name": "DateTime",
+          "value": "2020:08:01 10:12:38"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "10/2500"
+        },
+        {
+          "name": "FNumber",
+          "value": "80/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 0
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 140
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2020:08:01 10:12:38"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2020:08:01 10:12:38"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "4/1"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "7965784/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "600000/100000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/6"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "30/10"
+        },
+        {
+          "name": "SubjectDistance",
+          "value": "126/100"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "170/10"
+        },
+        {
+          "name": "SubSecTime",
+          "value": "40"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "40"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "40"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "1/1"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 25
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "SubjectDistanceRange",
+          "value": 0
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "2.3.0.0"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/栏杆影子的斜向重复/04.jpg",
+      "commons_title": "File:Converging (21564451990).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Converging_(21564451990).jpg",
+      "author": "Aidan from Wellington, New Zealand",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Converging_%2821564451990%29.jpg/1920px-Converging_%2821564451990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Converging_%2821564451990%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "2e90bc815e1deec18adada5abf25c84485ca8337",
+      "sha256": "367eabe562b341af4299ba4069acb91242421a8a70f804c0786fb88dc5665843",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon EOS 5D"
+        },
+        {
+          "name": "XResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Lightroom 6.1.1 (Windows)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2015:09:27 23:16:52"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/8000"
+        },
+        {
+          "name": "FNumber",
+          "value": "18/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2015:09:27 14:06:45"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2015:09:27 14:06:45"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "12965784/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "1695994/1000000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "175/100"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "85/1"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "4368000/1415"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "2912000/942"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "SerialNumber",
+          "value": "830500829"
+        },
+        {
+          "name": "Lens",
+          "value": "EF85mm f/1.8 USM"
+        },
+        {
+          "name": "Label",
+          "value": "Green"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2015:09:28 12:16:52"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "F9F8C6790C9FE1E457C3B77CD5B9414D"
+        },
+        {
+          "name": "ObjectName",
+          "value": "Converging\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "\n*b&w\n*converging\n*handrails\n*lines\n*petone\n*pier\n*privacy:public\n*shadows"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/栏杆影子的斜向重复/05.jpg",
+      "commons_title": "File:Zaun mit Schattenwurf in der Fürstenbergstraße in Freiburg-Wiehre.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Zaun_mit_Schattenwurf_in_der_Fürstenbergstraße_in_Freiburg-Wiehre.jpg",
+      "author": "Andreas Schwarzkopf",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Zaun_mit_Schattenwurf_in_der_F%C3%BCrstenbergstra%C3%9Fe_in_Freiburg-Wiehre.jpg/1920px-Zaun_mit_Schattenwurf_in_der_F%C3%BCrstenbergstra%C3%9Fe_in_Freiburg-Wiehre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Zaun_mit_Schattenwurf_in_der_F%C3%BCrstenbergstra%C3%9Fe_in_Freiburg-Wiehre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "b9aaa6aec39e33860b5f99de3e83f77592de6398",
+      "sha256": "4c8aa1c5d9e38aea3452e899f0ff57ebced269d7dd07d64fad3ba51ef0587535",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon PowerShot A650 IS"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop 7.0"
+        },
+        {
+          "name": "DateTime",
+          "value": "2021:12:04 17:11:31"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/200"
+        },
+        {
+          "name": "FNumber",
+          "value": "40/10"
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 80
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0220"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2021:09:05 14:56:18"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2021:09:05 14:56:18"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "5/1"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "245/32"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "128/32"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/3"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "95/32"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "7400/1000"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "3000000/219"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "4000000/291"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "4000/4000"
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GPSLatitude",
+          "value": 47.98417015000593
+        },
+        {
+          "name": "GPSLongitude",
+          "value": 7.85031575
+        },
+        {
+          "name": "GPSAltitude",
+          "value": 282
+        },
+        {
+          "name": "GPSTimeStamp",
+          "value": "\n*14/1\n*56/1\n*18/1"
+        },
+        {
+          "name": "GPSImgDirectionRef",
+          "value": "T"
+        },
+        {
+          "name": "GPSImgDirection",
+          "value": "106/25"
+        },
+        {
+          "name": "GPSMapDatum",
+          "value": "WGS-84"
+        },
+        {
+          "name": "GPSDestLatitude",
+          "value": 47.98423905000597
+        },
+        {
+          "name": "GPSDestLongitude",
+          "value": 7.850323379998819
+        },
+        {
+          "name": "GPSDateStamp",
+          "value": "2021:09:05"
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "0.0.2.2"
+        },
+        {
+          "name": "FlashpixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "3000"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "4000"
+        },
+        {
+          "name": "Artist",
+          "value": "Andreas Schwarzkopf"
+        },
+        {
+          "name": "Compression",
+          "value": "6"
+        },
+        {
+          "name": "ImageDescription",
+          "value": "Geländer mit Schattenwurf in der Fürstenbergstraße in Freiburg-Wiehre\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "\n*Baden-Württemberg\n*DEU\n*Deutschland\n*Freiburg im Breisgau\n*Mittelwiehre"
+        },
+        {
+          "name": "CountryCodeDest",
+          "value": "DEU"
+        },
+        {
+          "name": "SublocationDest",
+          "value": "Mittelwiehre"
+        },
+        {
+          "name": "CityDest",
+          "value": "Freiburg im Breisgau"
+        },
+        {
+          "name": "CountryDest",
+          "value": "Deutschland"
+        },
+        {
+          "name": "ProvinceOrStateDest",
+          "value": "Baden-Württemberg"
+        },
+        {
+          "name": "iimVersion",
+          "value": 2
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/影子在墙根的转折/01.jpg",
+      "commons_title": "File:Shadow of iron railings, Biblioteca das Galveias, Lisbon, Portugal julesvernex2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Shadow_of_iron_railings,_Biblioteca_das_Galveias,_Lisbon,_Portugal_julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Shadow_of_iron_railings%2C_Biblioteca_das_Galveias%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1920px-Shadow_of_iron_railings%2C_Biblioteca_das_Galveias%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Shadow_of_iron_railings%2C_Biblioteca_das_Galveias%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "fd1a14d4b2870098ea6f6133d007ec56e4209212",
+      "sha256": "5e85c73fbda15f9581c58d1935f6e0f13b744400a6593759a19a838f798bce98",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "ImageDescription",
+          "value": "Shadow of iron railings, Biblioteca das Galveias, Lisbon, Portugal\n\n"
+        },
+        {
+          "name": "Make",
+          "value": "RICOH IMAGING COMPANY, LTD."
+        },
+        {
+          "name": "Model",
+          "value": "RICOH GR III"
+        },
+        {
+          "name": "XResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Lightroom Classic 13.4 (Macintosh)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2024:08:11 11:12:55"
+        },
+        {
+          "name": "Artist",
+          "value": "Jules Verne Times Two"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/1000"
+        },
+        {
+          "name": "FNumber",
+          "value": "56/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0231"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2020:06:05 18:03:18"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2020:06:05 18:03:18"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "9965784/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "4970854/1000000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/10"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 255
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "183/10"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 28
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "SubjectDistanceRange",
+          "value": 1
+        },
+        {
+          "name": "GPSLatitude",
+          "value": 38.741611846666665
+        },
+        {
+          "name": "GPSLongitude",
+          "value": -9.143743271666667
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "0.0.2.2"
+        },
+        {
+          "name": "SerialNumber",
+          "value": "0038890"
+        },
+        {
+          "name": "Lens",
+          "value": "18.3 mm f/2.8"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2024:08:11 12:12:55"
+        },
+        {
+          "name": "Rating",
+          "value": "3"
+        },
+        {
+          "name": "Label",
+          "value": "Green"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "84FE07815B277E1AAEB0351E15028B09"
+        },
+        {
+          "name": "Credit",
+          "value": "© Jules Verne Times Two / julesvernex2.com / CC-BY-SA-4.0"
+        },
+        {
+          "name": "Copyrighted",
+          "value": "True"
+        },
+        {
+          "name": "WebStatement",
+          "value": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Copyright",
+          "value": "Copyright© Jules Verne Times Two / julesvernex2.com / CC-BY-SA-4.0\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "PPL1"
+        },
+        {
+          "name": "Contact",
+          "value": "[mailto:verne@julesvernex2.com <span class=\"email\">verne@julesvernex2.com</span>]\n\n<span class=\"url\">www.julesvernex2.com</span>\n<div class=\"adr\">\n\n\n, ,  \n</div>\n"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/影子在墙根的转折/02.jpg",
+      "commons_title": "File:Wuppertal, SBT, Schwarzbach-Viadukt-Geländer als Schattenriss auf Wand von Haus Hügelstr. 27, mittig der Fotograf.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Wuppertal,_SBT,_Schwarzbach-Viadukt-Geländer_als_Schattenriss_auf_Wand_von_Haus_Hügelstr._27,_mittig_der_Fotograf.jpg",
+      "author": "Im Fokus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Wuppertal%2C_SBT%2C_Schwarzbach-Viadukt-Gel%C3%A4nder_als_Schattenriss_auf_Wand_von_Haus_H%C3%BCgelstr._27%2C_mittig_der_Fotograf.jpg/1920px-Wuppertal%2C_SBT%2C_Schwarzbach-Viadukt-Gel%C3%A4nder_als_Schattenriss_auf_Wand_von_Haus_H%C3%BCgelstr._27%2C_mittig_der_Fotograf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Wuppertal%2C_SBT%2C_Schwarzbach-Viadukt-Gel%C3%A4nder_als_Schattenriss_auf_Wand_von_Haus_H%C3%BCgelstr._27%2C_mittig_der_Fotograf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "346dd9fc71767f965ed3ea0399bcf865b2ced5ef",
+      "sha256": "0af3af0d7556feb8df0ea86054aa95ce9780a48efc581bed8f8af49fae7d49f5",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "NIKON"
+        },
+        {
+          "name": "Model",
+          "value": "COOLPIX P7100"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Windows Photo Editor 10.0.10011.16384"
+        },
+        {
+          "name": "DateTime",
+          "value": "2023:01:22 03:35:26"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "10/6400"
+        },
+        {
+          "name": "FNumber",
+          "value": "28/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2022:09:30 18:20:13"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2022:09:30 18:20:13"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "4/1"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "-3/10"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "30/10"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "60/10"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "0/100"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 28
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "SubjectDistanceRange",
+          "value": 0
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/影子在墙根的转折/03.jpg",
+      "commons_title": "File:Railing shadows on ceramic wall tiles, Alameda Afonso Henriques, Lisbon, Portugal julesvernex2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Railing_shadows_on_ceramic_wall_tiles,_Alameda_Afonso_Henriques,_Lisbon,_Portugal_julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Railing_shadows_on_ceramic_wall_tiles%2C_Alameda_Afonso_Henriques%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1920px-Railing_shadows_on_ceramic_wall_tiles%2C_Alameda_Afonso_Henriques%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Railing_shadows_on_ceramic_wall_tiles%2C_Alameda_Afonso_Henriques%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "634b754b8780b1693f23752e1f1fed63cc3821d9",
+      "sha256": "1e8e9f2bd6f600b86cceaacf9d0b8f739ced6eec619699ea1f9e99ae3416d58c",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "ImageDescription",
+          "value": "Railing shadows on ceramic wall tiles, Alameda Afonso Henriques, Lisbon, Portugal\n\n"
+        },
+        {
+          "name": "Make",
+          "value": "NIKON CORPORATION"
+        },
+        {
+          "name": "Model",
+          "value": "NIKON D200"
+        },
+        {
+          "name": "XResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Lightroom Classic 15.0.1 (Macintosh)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2025:11:19 21:43:37"
+        },
+        {
+          "name": "Artist",
+          "value": "Jules Verne Times Two"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/640"
+        },
+        {
+          "name": "FNumber",
+          "value": "56/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0231"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2023:09:19 16:50:28"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2023:09:19 16:50:28"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "9321928/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "4970854/1000000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "-4/6"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "16/10"
+        },
+        {
+          "name": "SubjectDistance",
+          "value": "631/100"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 0
+        },
+        {
+          "name": "FocalLength",
+          "value": "850/10"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "41"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "41"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "1/1"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 127
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "SubjectDistanceRange",
+          "value": 0
+        },
+        {
+          "name": "GPSLatitude",
+          "value": 38.73735615
+        },
+        {
+          "name": "GPSLongitude",
+          "value": -9.13459435
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "0.0.2.2"
+        },
+        {
+          "name": "Lens",
+          "value": "85.0 mm f/1.8"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2025:11:19 21:43:37"
+        },
+        {
+          "name": "Rating",
+          "value": "3"
+        },
+        {
+          "name": "Label",
+          "value": "Green"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "64F95859A96EBDB870DFEE5400D91D24"
+        },
+        {
+          "name": "Credit",
+          "value": "© Jules Verne Times Two / julesvernex2.com / CC-BY-SA-4.0"
+        },
+        {
+          "name": "Copyrighted",
+          "value": "True"
+        },
+        {
+          "name": "WebStatement",
+          "value": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "Copyright",
+          "value": "Copyright© Jules Verne Times Two / julesvernex2.com / CC-BY-SA-4.0\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "PPL1"
+        },
+        {
+          "name": "Contact",
+          "value": "[mailto:verne@julesvernex2.com <span class=\"email\">verne@julesvernex2.com</span>]\n\n<span class=\"url\">www.julesvernex2.com</span>\n<div class=\"adr\">\n\n\n, ,  \n</div>\n"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/影子在墙根的转折/04.jpg",
+      "commons_title": "File:Tree shadow on red wall and stairs, Jardim Garcia de Orta, Parque das Nações, Lisbon, Portugal julesvernex2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tree_shadow_on_red_wall_and_stairs,_Jardim_Garcia_de_Orta,_Parque_das_Nações,_Lisbon,_Portugal_julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Tree_shadow_on_red_wall_and_stairs%2C_Jardim_Garcia_de_Orta%2C_Parque_das_Na%C3%A7%C3%B5es%2C_Lisbon%2C_Portugal_julesvernex2.jpg/1920px-Tree_shadow_on_red_wall_and_stairs%2C_Jardim_Garcia_de_Orta%2C_Parque_das_Na%C3%A7%C3%B5es%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Tree_shadow_on_red_wall_and_stairs%2C_Jardim_Garcia_de_Orta%2C_Parque_das_Na%C3%A7%C3%B5es%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "40bb7a24a7ca8e19ca49c56e4d76e15c6e53e572",
+      "sha256": "be449aa00e954cf0ccd70fb66bb6daed9edd05d02abd9574693d30a222b5230f",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "NIKON CORPORATION"
+        },
+        {
+          "name": "Model",
+          "value": "NIKON D800"
+        },
+        {
+          "name": "XResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Lightroom Classic 12.5 (Macintosh)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2023:09:10 18:44:30"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/60"
+        },
+        {
+          "name": "FNumber",
+          "value": "63/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0231"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2021:11:28 15:34:40"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2021:11:28 15:34:40"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "5906891/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "5310704/1000000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "-4/6"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "16/10"
+        },
+        {
+          "name": "SubjectDistance",
+          "value": "200/100"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "500/10"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "30"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "30"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "67122044/32768"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "67122044/32768"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 3
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "1/1"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 50
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "SubjectDistanceRange",
+          "value": 0
+        },
+        {
+          "name": "GPSLatitude",
+          "value": 38.770473195
+        },
+        {
+          "name": "GPSLongitude",
+          "value": -9.092158305
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "0.0.2.2"
+        },
+        {
+          "name": "SerialNumber",
+          "value": "6123490"
+        },
+        {
+          "name": "Lens",
+          "value": "50.0 mm f/1.8"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2023:09:10 19:44:30"
+        },
+        {
+          "name": "Label",
+          "value": "Green"
+        },
+        {
+          "name": "Rating",
+          "value": "3"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "28430B00CCF82A3C55068ACB3BFF5C97"
+        },
+        {
+          "name": "ImageDescription",
+          "value": "Tree shadow on red wall and stairs, Jardim Garcia de Orta, Parque das Nações, Lisbon, Portugal\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "\n*Jardim Garcia de Orta\n*PPL1"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/影子在墙根的转折/05.jpg",
+      "commons_title": "File:Rostige-Stahlspundwand-Schatten-Carolinensiel-Morgens-2026.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rostige-Stahlspundwand-Schatten-Carolinensiel-Morgens-2026.jpg",
+      "author": "Tuxyso",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Rostige-Stahlspundwand-Schatten-Carolinensiel-Morgens-2026.jpg/1920px-Rostige-Stahlspundwand-Schatten-Carolinensiel-Morgens-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Rostige-Stahlspundwand-Schatten-Carolinensiel-Morgens-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "e7170cd285600fbdb3e451cbe50aad306ac1ed2c",
+      "sha256": "82f9799aca98eb2767c6ebabc4489934ae2dee8a783931af50222c946ac775bf",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "NIKON CORPORATION"
+        },
+        {
+          "name": "Model",
+          "value": "NIKON Z 8"
+        },
+        {
+          "name": "XResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/200"
+        },
+        {
+          "name": "FNumber",
+          "value": "8/1"
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 64
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0231"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2026:08:26 08:34:54"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "15303/2002"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "6/1"
+        },
+        {
+          "name": "FocalLength",
+          "value": "83/1"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "54"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "GPSLatitude",
+          "value": 53.69070517333869
+        },
+        {
+          "name": "GPSLongitude",
+          "value": 7.801745153333474
+        },
+        {
+          "name": "GPSTimeStamp",
+          "value": "\n*6/1\n*15/1\n*2253/50"
+        },
+        {
+          "name": "GPSMapDatum",
+          "value": "WGS-84"
+        },
+        {
+          "name": "GPSDateStamp",
+          "value": "2026:08:26"
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "2.3.0.0"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/地面上影子收束的地方/01.jpg",
+      "commons_title": "File:Algund, Etschtalradweg, Serpentinen -- 2026 -- 3751.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Algund,_Etschtalradweg,_Serpentinen_--_2026_--_3751.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Algund%2C_Etschtalradweg%2C_Serpentinen_--_2026_--_3751.jpg/1920px-Algund%2C_Etschtalradweg%2C_Serpentinen_--_2026_--_3751.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Algund%2C_Etschtalradweg%2C_Serpentinen_--_2026_--_3751.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "ea367af77935f7b48a30eeda8be0902dbe91221a",
+      "sha256": "928f75b5214662cff96444f067d7d2188a72ab4368691fc3146150e57315aaf8",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "FUJIFILM"
+        },
+        {
+          "name": "Model",
+          "value": "X-E5"
+        },
+        {
+          "name": "XResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "240/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Lightroom Classic 14.5.2 (Macintosh)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2026:10:08 17:41:48"
+        },
+        {
+          "name": "Artist",
+          "value": "Dietmar Rabich"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/110"
+        },
+        {
+          "name": "FNumber",
+          "value": "13/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 250
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0232"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2026:09:21 14:38:06"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2026:09:21 14:38:06"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "678136/100000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "7400879/1000000"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "819/100"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/100"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "300/100"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 2
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 0
+        },
+        {
+          "name": "FocalLength",
+          "value": "2340/100"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "48"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "48"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "108260745/32768"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "108260745/32768"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 3
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 35
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 1
+        },
+        {
+          "name": "SubjectDistanceRange",
+          "value": 0
+        },
+        {
+          "name": "GPSLatitude",
+          "value": 46.68215222166667
+        },
+        {
+          "name": "GPSLongitude",
+          "value": 11.101571388333333
+        },
+        {
+          "name": "GPSAltitude",
+          "value": 532
+        },
+        {
+          "name": "GPSTimeStamp",
+          "value": "\n*12/1\n*37/1\n*56000/1000"
+        },
+        {
+          "name": "GPSSpeedRef",
+          "value": "K"
+        },
+        {
+          "name": "GPSSpeed",
+          "value": "0/10"
+        },
+        {
+          "name": "GPSMapDatum",
+          "value": "WGS-84"
+        },
+        {
+          "name": "GPSDateStamp",
+          "value": "2026:09:21"
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "0.0.3.2"
+        },
+        {
+          "name": "SerialNumber",
+          "value": "5D009890"
+        },
+        {
+          "name": "Lens",
+          "value": "XF16-50mmF2.8-4.8 R LM WR"
+        },
+        {
+          "name": "Label",
+          "value": "Algund, Etschtalradweg, Serpentinen"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2026:10:08 19:41:48"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "5C9F1B2B6903B8820694CE3ECD0D52B9"
+        },
+        {
+          "name": "Copyrighted",
+          "value": "True"
+        },
+        {
+          "name": "ObjectName",
+          "value": "Algund, Etschtalradweg, Serpentinen\n\n"
+        },
+        {
+          "name": "Copyright",
+          "value": "Dietmar Rabich, Dülmen\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "\n*Algund\n*Italien\n*Straße\n*Straßen und Wege\n*Südtirol\n*Weg"
+        },
+        {
+          "name": "Contact",
+          "value": "\n\n\n<div class=\"adr\">\n\n\n<span class=\"locality\">Dülmen</span>, <span class=\"region\">Nordrhein-Westfalen</span>, <span class=\"postal-code\">48249</span> <span class=\"country-name\">Deutschland</span>\n</div>\n"
+        },
+        {
+          "name": "CityDest",
+          "value": "Algund"
+        },
+        {
+          "name": "ProvinceOrStateDest",
+          "value": "Südtirol"
+        },
+        {
+          "name": "CountryDest",
+          "value": "Italien"
+        },
+        {
+          "name": "CountryCodeDest",
+          "value": "IT"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/地面上影子收束的地方/02.jpg",
+      "commons_title": "File:Le Tilleul (France), road between trees and wall.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Le_Tilleul_(France),_road_between_trees_and_wall.JPG",
+      "author": "Philippe Alès",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Le_Tilleul_%28France%29%2C_road_between_trees_and_wall.JPG/1920px-Le_Tilleul_%28France%29%2C_road_between_trees_and_wall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Le_Tilleul_%28France%29%2C_road_between_trees_and_wall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "82854e52ce022413a0b27ad6cf5cbe249efabc4b",
+      "sha256": "1315954bb6a3149948b45820ed67d4260eedc2fd7e4060a60c78de0fdd561520",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "NIKON CORPORATION"
+        },
+        {
+          "name": "Model",
+          "value": "NIKON D90"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "300/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Ver.1.00 "
+        },
+        {
+          "name": "DateTime",
+          "value": "2013:02:18 17:10:01"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "10/2500"
+        },
+        {
+          "name": "FNumber",
+          "value": "160/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 0
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 640
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0221"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2013:02:18 17:10:01"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2013:02:18 17:10:01"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "4/1"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/6"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "38/10"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 24
+        },
+        {
+          "name": "FocalLength",
+          "value": "220/10"
+        },
+        {
+          "name": "SubSecTime",
+          "value": "00"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "00"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "00"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "1/1"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 33
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 1
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "SubjectDistanceRange",
+          "value": 0
+        },
+        {
+          "name": "GPSVersionID",
+          "value": "2.2.0.0"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/地面上影子收束的地方/03.jpg",
+      "commons_title": "File:Long shadows across the road - geograph.org.uk - 6161196.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Long_shadows_across_the_road_-_geograph.org.uk_-_6161196.jpg",
+      "author": "Malcolm Neal",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Long_shadows_across_the_road_-_geograph.org.uk_-_6161196.jpg/1920px-Long_shadows_across_the_road_-_geograph.org.uk_-_6161196.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Long_shadows_across_the_road_-_geograph.org.uk_-_6161196.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "716931d03419d9c743cbd389775cb82d800c2e4c",
+      "sha256": "43969d8f2a575e0d007d67a7f31b961fd2c3bf9cb1cc062eb63ab6c3a574d4eb",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "ImageWidth",
+          "value": 3008
+        },
+        {
+          "name": "ImageLength",
+          "value": 2000
+        },
+        {
+          "name": "BitsPerSample",
+          "value": "\n*8\n*8\n*8"
+        },
+        {
+          "name": "PhotometricInterpretation",
+          "value": 2
+        },
+        {
+          "name": "Make",
+          "value": "SONY"
+        },
+        {
+          "name": "Model",
+          "value": "ILCE-7M3"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "SamplesPerPixel",
+          "value": 3
+        },
+        {
+          "name": "XResolution",
+          "value": "3500000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "3500000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CS6 (Windows)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2019:05:24 08:28:54"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/800"
+        },
+        {
+          "name": "FNumber",
+          "value": "100/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 4
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 800
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0231"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2019:05:24 07:29:31"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2019:05:24 07:29:31"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "2/1"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "9643856/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "6643856/1000000"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "23444/2560"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/10"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "1024/256"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "240/10"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 1
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "16/16"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 24
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "Lens",
+          "value": "FE 24-105mm F4 G OSS"
+        },
+        {
+          "name": "Rating",
+          "value": "0"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2019:05:24 09:28:54"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "D735181D3C3A2F4A056F8E4B8BCCEC5D"
+        },
+        {
+          "name": "ImageDescription",
+          "value": "                               "
+        },
+        {
+          "name": "iimVersion",
+          "value": 45393
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/地面上影子收束的地方/04.jpg",
+      "commons_title": "File:Shadows of trees in the streets of Amsterdam in spring of 2013.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Shadows_of_trees_in_the_streets_of_Amsterdam_in_spring_of_2013.jpg",
+      "author": "Fons Heijnsbroek",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Shadows_of_trees_in_the_streets_of_Amsterdam_in_spring_of_2013.jpg/1920px-Shadows_of_trees_in_the_streets_of_Amsterdam_in_spring_of_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Shadows_of_trees_in_the_streets_of_Amsterdam_in_spring_of_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "dcf972873659041a0dd9f7f5f0585bcf97394e60",
+      "sha256": "52552854619d39795019c16048e8b9ca99dd710b3c046e940bc9e86e3dda7f63",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Panasonic"
+        },
+        {
+          "name": "Model",
+          "value": "DMC-TZ5"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Elements 8.0 Windows"
+        },
+        {
+          "name": "DateTime",
+          "value": "2013:05:27 08:54:21"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "10/6400"
+        },
+        {
+          "name": "FNumber",
+          "value": "33/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0221"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2013:04:12 17:14:02"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2013:04:12 17:14:02"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "4/1"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "33/100"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "344/100"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 9
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "47/10"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 1
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "0/10"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 28
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "FlashpixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "2592"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "3456"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2013:05:27 10:54:21"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b"
+        },
+        {
+          "name": "iimVersion",
+          "value": 32888
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-15/地面上影子收束的地方/05.jpg",
+      "commons_title": "File:Shadows and shades of branches; free photo Amsterdam by Heijnsbroek (50333096326).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Shadows_and_shades_of_branches;_free_photo_Amsterdam_by_Heijnsbroek_(50333096326).jpg",
+      "author": "Fons Heijnsbroek from Amsterdam, Netherlands",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Shadows_and_shades_of_branches%3B_free_photo_Amsterdam_by_Heijnsbroek_%2850333096326%29.jpg/1920px-Shadows_and_shades_of_branches%3B_free_photo_Amsterdam_by_Heijnsbroek_%2850333096326%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Shadows_and_shades_of_branches%3B_free_photo_Amsterdam_by_Heijnsbroek_%2850333096326%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "4533a7c541e225a391a27de0a7061648979e39ed",
+      "sha256": "443f924007e392ea83bd1efcafa16b2b2e47b77e435fc4eda158cfbfb5b962ee",
+      "modifications": "Commons thumbnail resizing only; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Panasonic"
+        },
+        {
+          "name": "Model",
+          "value": "DMC-GF6"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Elements 8.0 Windows"
+        },
+        {
+          "name": "DateTime",
+          "value": "2020:02:10 20:55:30"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "10/1250"
+        },
+        {
+          "name": "FNumber",
+          "value": "56/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 160
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2020:02:07 15:01:18"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2020:02:07 15:01:18"
+        },
+        {
+          "name": "ComponentsConfiguration",
+          "value": "\n#1\n#2\n#3\n#0"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "2/1"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/100"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "1143/256"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "280/10"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "0/10"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 56
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 1
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "FlashpixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "PixelXDimension",
+          "value": "4661"
+        },
+        {
+          "name": "PixelYDimension",
+          "value": "3500"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2020:02:10 21:55:30"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "xmp.did:3FD2A34A3F4CEA11AC46F0BA83F7DE87"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

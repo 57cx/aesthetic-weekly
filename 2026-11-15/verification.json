@@ -1,0 +1,210 @@
+{
+  "issue": "2026-11-15",
+  "kind": "daily",
+  "photos": 20,
+  "pdfs": 5,
+  "pdf_pages": 68,
+  "duplicate_source_title_matches": [],
+  "duplicate_sha256_matches": [],
+  "unique_current_photos": 20,
+  "image_decode_and_min_dimensions": "pass",
+  "source_pages_authors_licenses": [
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Ringoldsgasse_--_2020_--_6739.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Eckernf%C3%B6rde,_Gudewerdtstra%C3%9Fe_--_2023_--_1042.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Wall_shadow_(Unsplash).jpg",
+      "author": "rawpixel.com rawpixel",
+      "license": "CC0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Sunlight_and_shadows_of_a_tiny_tree_in_Fall_on_a_brick_wall_of_Entrepotdok-buildings,_Amsterdam_city,_along_the_canal_Entrepotdok;_on_the_border_of_the_old_city_center_of_Amsterdam;_urban_photography,_Fons_Heijnsbroek_2013_(11132531654).jpg",
+      "author": "Fons Heijnsbroek from Amsterdam, Netherlands",
+      "license": "CC0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Branches_casting_shadows_on_an_old_wooden_barn_in_Rix%C3%B6_1.jpg",
+      "author": "W.carter",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:2010-03-14_Railing_shadow_in_Durham.jpg",
+      "author": "Ildar Sagdejev (Specious)",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:2015-365-69_Keeping_The_Parallels_(16756249196).jpg",
+      "author": "cogdogblog",
+      "license": "CC0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Charleroi_-_Pont_Roi_Baudouin_-_%C3%A9t%C3%A9_2020_-_ombres_-_01.jpg",
+      "author": "Jmh2o",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Converging_(21564451990).jpg",
+      "author": "Aidan from Wellington, New Zealand",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Zaun_mit_Schattenwurf_in_der_F%C3%BCrstenbergstra%C3%9Fe_in_Freiburg-Wiehre.jpg",
+      "author": "Andreas Schwarzkopf",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Shadow_of_iron_railings,_Biblioteca_das_Galveias,_Lisbon,_Portugal_julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Wuppertal,_SBT,_Schwarzbach-Viadukt-Gel%C3%A4nder_als_Schattenriss_auf_Wand_von_Haus_H%C3%BCgelstr._27,_mittig_der_Fotograf.jpg",
+      "author": "Im Fokus",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Railing_shadows_on_ceramic_wall_tiles,_Alameda_Afonso_Henriques,_Lisbon,_Portugal_julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Tree_shadow_on_red_wall_and_stairs,_Jardim_Garcia_de_Orta,_Parque_das_Na%C3%A7%C3%B5es,_Lisbon,_Portugal_julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Rostige-Stahlspundwand-Schatten-Carolinensiel-Morgens-2026.jpg",
+      "author": "Tuxyso",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Algund,_Etschtalradweg,_Serpentinen_--_2026_--_3751.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Le_Tilleul_(France),_road_between_trees_and_wall.JPG",
+      "author": "Philippe Alès",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Long_shadows_across_the_road_-_geograph.org.uk_-_6161196.jpg",
+      "author": "Malcolm Neal",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Shadows_of_trees_in_the_streets_of_Amsterdam_in_spring_of_2013.jpg",
+      "author": "Fons Heijnsbroek",
+      "license": "CC0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Shadows_and_shades_of_branches;_free_photo_Amsterdam_by_Heijnsbroek_(50333096326).jpg",
+      "author": "Fons Heijnsbroek from Amsterdam, Netherlands",
+      "license": "CC0"
+    }
+  ],
+  "all_pdf_pages_rendered": "pass",
+  "pdf_text_and_page_bounds": "pass",
+  "photo_three_page_structure": {
+    "2026-11-15/地面上影子收束的地方/地面上影子收束的地方_点评与思考.pdf": 5,
+    "2026-11-15/影子在墙根的转折/影子在墙根的转折_点评与思考.pdf": 5,
+    "2026-11-15/枝影折过墙与地面/枝影折过墙与地面_点评与思考.pdf": 5,
+    "2026-11-15/栏杆影子的斜向重复/栏杆影子的斜向重复_点评与思考.pdf": 5
+  },
+  "photos_with_nine_sections": 20,
+  "analysis_hanzi_per_photo": [
+    1012,
+    1058,
+    1013,
+    1029,
+    1029,
+    1009,
+    1021,
+    1013,
+    1025,
+    1014,
+    1117,
+    1040,
+    1075,
+    1045,
+    1024,
+    1021,
+    1001,
+    1003,
+    1024,
+    1033
+  ],
+  "analysis_hanzi_total": 20606,
+  "all_manuscript_paragraphs_present_in_pdfs": "pass",
+  "all_used_text_fonts_embedded_noto_sans_sc": "pass",
+  "font_license": "SIL Open Font License 1.1",
+  "files": [
+    {
+      "path": "2026-11-15/今日导读.pdf",
+      "pages": 4,
+      "sha256": "95bd4c5ca76fe9153e9a004943fa66c9e465de56abb22ce58b38978c6f5311b7",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ]
+    },
+    {
+      "path": "2026-11-15/地面上影子收束的地方/地面上影子收束的地方_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "72ff8372a248ca00e58f1aa76c116dbfe192c96b43dfece2fa0c51e2fd7a8ed9",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-15/影子在墙根的转折/影子在墙根的转折_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "ead5cd6fb33b8ca51bcbd89d8bd2141796f6b0769e396a2e39540ef72b610c66",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-15/枝影折过墙与地面/枝影折过墙与地面_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "6d55eed8a1473839211e5ebfee593625c51a971b84168b812085a756855d640e",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-15/栏杆影子的斜向重复/栏杆影子的斜向重复_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "283958af1440ad4b58247ee119cbd0232b3598374e20200acaf3fa68a7335eb8",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/AAAAAD+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    }
+  ]
+}
