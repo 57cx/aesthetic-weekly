@@ -1,0 +1,123 @@
+{
+  "issue": "2026-11-16",
+  "kind": "daily",
+  "photos": 10,
+  "pdfs": 3,
+  "pdf_pages": 36,
+  "duplicate_source_title_matches": [],
+  "duplicate_sha256_matches": [],
+  "unique_current_photos": 10,
+  "image_decode_and_min_dimensions": "pass",
+  "source_pages_authors_licenses": [
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Almesbrunnberg,_trees.jpg",
+      "author": "Herzi Pinki",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Holly_bush_-_geograph.org.uk_-_1704981.jpg",
+      "author": "Jonathan Kington",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Track_in_forest_in_south_of_Steinau_an_der_Stra%C3%9Fe_2022-03-09_19.jpg",
+      "author": "Leonhard Lenz",
+      "license": "CC0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Evergreen_and_deciduous_trees_in_the_grounds_of_Coychurch_Crematorium_-_geograph.org.uk_-_6717605.jpg",
+      "author": "Jaggery",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Ruhland,_Parkstr._16._Koniferen_am_Haus,_Vorwinter,_03.jpg",
+      "author": "Wilhelm Zimmerling PAR",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Deciduous_Tree_in_Transition_Kalangala_Lakeside,_Uganda..jpg",
+      "author": "Ssemmanda will",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Stag-headed_oak,_Smeeds_Farm_-_geograph.org.uk_-_5280146.jpg",
+      "author": "Patrick Roper",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Stag-headed_oak_tree,_Wood_Orchard_Lane,_Kinsey_Heath_-_geograph.org.uk_-_5000888.jpg",
+      "author": "Christopher Hilton",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Stag-headed_oak_-_geograph.org.uk_-_4677158.jpg",
+      "author": "Marathon",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Stag-headed_oak,_Willenhall_-_geograph.org.uk_-_7612598.jpg",
+      "author": "A J Paxton",
+      "license": "CC BY-SA 2.0"
+    }
+  ],
+  "all_pdf_pages_rendered": "pass",
+  "pdf_text_and_page_bounds": "pass",
+  "photo_three_page_structure": {
+    "2026-11-16/常绿与落叶并置/常绿与落叶并置_点评与思考.pdf": 5,
+    "2026-11-16/绿叶之间露出的枯枝/绿叶之间露出的枯枝_点评与思考.pdf": 5
+  },
+  "photos_with_nine_sections": 10,
+  "analysis_hanzi_per_photo": [
+    1000,
+    1001,
+    1000,
+    1000,
+    1011,
+    1013,
+    1025,
+    1006,
+    1001,
+    1064
+  ],
+  "analysis_hanzi_total": 10121,
+  "all_manuscript_paragraphs_present_in_pdfs": "pass",
+  "all_used_text_fonts_embedded_noto_sans_sc": "pass",
+  "font_license": "SIL Open Font License 1.1",
+  "files": [
+    {
+      "path": "2026-11-16/今日导读.pdf",
+      "pages": 4,
+      "sha256": "828b7bbd5256acb150d2e65be19bb508a485f2399c31dd0102272bdae00f5393",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ]
+    },
+    {
+      "path": "2026-11-16/常绿与落叶并置/常绿与落叶并置_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "5a99a3bdbb8a54befc8e58a0a82cd779e11786de4f290a20a22a3c70bbc0a784",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-16/绿叶之间露出的枯枝/绿叶之间露出的枯枝_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "f012caa58d843364028689f332797556e4a41047a31e021b664cfa8db7e7be92",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    }
+  ]
+}
