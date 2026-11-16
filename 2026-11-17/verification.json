@@ -1,0 +1,165 @@
+{
+  "issue": "2026-11-17",
+  "kind": "daily",
+  "photos": 15,
+  "pdfs": 4,
+  "pdf_pages": 52,
+  "duplicate_source_title_matches": [],
+  "duplicate_sha256_matches": [],
+  "unique_current_photos": 15,
+  "image_decode_and_min_dimensions": "pass",
+  "source_pages_authors_licenses": [
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Slate_steps_(49123521558).jpg",
+      "author": "Hefin Owen",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:The_Stairs_at_Cismigiu_(15906338730).jpg",
+      "author": "J Stimp",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Treppe_zur_Zwester_Ohm_an_Kreisstrasse_61_Bellnhausen-Sichertshausen_2015-11-07.JPG",
+      "author": "LudwigSebastianMicheler",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Steps_from_Magdalene_Road,_Torquay_-_geograph.org.uk_-_6329281.jpg",
+      "author": "Derek Harper",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Steps,_Lennox_Park_-_geograph.org.uk_-_8189154.jpg",
+      "author": "Richard Sutcliffe",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Laub_Treppen.jpg",
+      "author": "Immanuel Giel",
+      "license": "Public domain"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Park_stairs_in_autumn_(30388873666).jpg",
+      "author": "freestocks.org",
+      "license": "CC0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Steps_from_the_Frome_-_geograph.org.uk_-_4231217.jpg",
+      "author": "Derek Harper",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Autumn_foliage_2012_(8252568265).jpg",
+      "author": "Takeshi Kuboki",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Steps,_Devonport_Park_-_geograph.org.uk_-_4717635.jpg",
+      "author": "Derek Harper",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Autumn_stairs.jpg",
+      "author": "Maasaak",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Steps_Out_and_Leaves_(37007932854).jpg",
+      "author": "Garry Knight",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Stairs_and_leaves_Frauenberg_Schorndorf_2016.jpg",
+      "author": "Maxim Beniashvili",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%85%D0%BE%D0%B4%D0%B8_%D0%B2_%D0%BF%D0%B0%D1%80%D0%BA%D1%83_%D1%88%D0%BA%D0%BE%D0%BB%D0%B8-%D1%96%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D1%83,_%D0%BC._%D0%A1%D0%BA%D0%BE%D0%BB%D0%B5.jpg",
+      "author": "Helen Owl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Place_royale_du_Peyrou,_right_southwestern_stairs_01.jpg",
+      "author": "Christian Ferrer",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "all_pdf_pages_rendered": "pass",
+  "pdf_text_and_page_bounds": "pass",
+  "photo_three_page_structure": {
+    "2026-11-17/台阶转角的落叶堆积/台阶转角的落叶堆积_点评与思考.pdf": 5,
+    "2026-11-17/落叶填进石阶/落叶填进石阶_点评与思考.pdf": 5,
+    "2026-11-17/踏面上还看得见的边/踏面上还看得见的边_点评与思考.pdf": 5
+  },
+  "photos_with_nine_sections": 15,
+  "analysis_hanzi_per_photo": [
+    1012,
+    1002,
+    1003,
+    1001,
+    1029,
+    1091,
+    1014,
+    1106,
+    1024,
+    1025,
+    1006,
+    1007,
+    1007,
+    1004,
+    1027
+  ],
+  "analysis_hanzi_total": 15358,
+  "all_manuscript_paragraphs_present_in_pdfs": "pass",
+  "all_used_text_fonts_embedded_noto_sans_sc": "pass",
+  "font_license": "SIL Open Font License 1.1",
+  "files": [
+    {
+      "path": "2026-11-17/今日导读.pdf",
+      "pages": 4,
+      "sha256": "92caa4954f15073f371ff26d39d9270c9d8c18ac8eef37477af00d17d46c8827",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/Helvetica"
+      ]
+    },
+    {
+      "path": "2026-11-17/台阶转角的落叶堆积/台阶转角的落叶堆积_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "64f63d47035d5b6975ecd731f3516e57df76c3f46b60762f2e8bc3b06fa36c64",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-17/落叶填进石阶/落叶填进石阶_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "d2cfdfa4de65950b172c7cc4d4bb4d93035709d04da861dabeee3f1df879c4b0",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-17/踏面上还看得见的边/踏面上还看得见的边_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "462c7e8dccbb6934fda4459e6281cee263ebdf11aaaa3c51686ce7b13bb3e9df",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    }
+  ]
+}
