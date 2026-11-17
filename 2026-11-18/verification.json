@@ -1,0 +1,165 @@
+{
+  "issue": "2026-11-18",
+  "kind": "daily",
+  "photos": 15,
+  "pdfs": 4,
+  "pdf_pages": 52,
+  "duplicate_source_title_matches": [],
+  "duplicate_sha256_matches": [],
+  "unique_current_photos": 15,
+  "image_decode_and_min_dimensions": "pass",
+  "source_pages_authors_licenses": [
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Lotus_Nelumbo_%27Mrs._Perry_D._Slocum%27_Dried_Seed_Head_2000px.jpg",
+      "author": "Photo by and (c)2008 Derek Ramsey (Ram-Man).  Co-attribution must be given to the Chanticleer Garden.",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Lotus_seed_pods.jpg",
+      "author": "Jbbrillo at English Wikipedia",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Lotus_20230226_152922.jpg",
+      "author": "Ka23 13",
+      "license": "CC BY 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Beihai_Park_Kunming_Lake_Winter-20110104-RM-140223.jpg",
+      "author": "Ermell",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Little_Africa_-_lotuses_-_old_seed_pods_-_P1100032.JPG",
+      "author": "User:Vmenkov",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Lotus_leaf_in_winter_(29894840452).jpg",
+      "author": "Dr. Hans-Günter Wagner",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Rotten_lotus_leaf_(30008824185).jpg",
+      "author": "Dr. Hans-Günter Wagner",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Shinobazu_Pond_@_Ueno_Park_(11096042055).jpg",
+      "author": "Guilhem Vellut from Annecy, France",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Shinobazu_Pond_@_Ueno_Park_(11096170675).jpg",
+      "author": "Guilhem Vellut from Annecy, France",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Shinobazu_Pond_(Hasu_Pond_Area)_20211126_02.jpg",
+      "author": "先従隗始",
+      "license": "CC0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Beihai_Park_Kunming_Lake_Winter-20110104-RM-140312.jpg",
+      "author": "Ermell",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Lotus_pond_in_winter_(30008841085).jpg",
+      "author": "Dr. Hans-Günter Wagner",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Shinobazu_Pond_@_Ueno_Park_(11096138494).jpg",
+      "author": "Guilhem Vellut from Annecy, France",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Shinobazu_Pond_@_Ueno_Park_(11096193614).jpg",
+      "author": "Guilhem Vellut from Annecy, France",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Ueno_Park_(11096248743).jpg",
+      "author": "Guilhem Vellut from Annecy, France",
+      "license": "CC BY 2.0"
+    }
+  ],
+  "all_pdf_pages_rendered": "pass",
+  "pdf_text_and_page_bounds": "pass",
+  "photo_three_page_structure": {
+    "2026-11-18/枯莲叶的卷边与孔洞/枯莲叶的卷边与孔洞_点评与思考.pdf": 5,
+    "2026-11-18/残茎之间的间隔/残茎之间的间隔_点评与思考.pdf": 5,
+    "2026-11-18/残荷的茎与蓬/残荷的茎与蓬_点评与思考.pdf": 5
+  },
+  "photos_with_nine_sections": 15,
+  "analysis_hanzi_per_photo": [
+    1011,
+    1005,
+    1005,
+    1009,
+    1006,
+    1006,
+    1007,
+    1010,
+    1007,
+    1009,
+    1016,
+    1022,
+    1018,
+    1010,
+    1010
+  ],
+  "analysis_hanzi_total": 15151,
+  "all_manuscript_paragraphs_present_in_pdfs": "pass",
+  "all_used_text_fonts_embedded_noto_sans_sc": "pass",
+  "font_license": "SIL Open Font License 1.1",
+  "files": [
+    {
+      "path": "2026-11-18/今日导读.pdf",
+      "pages": 4,
+      "sha256": "f7a0143d5e4cb561c6f58ae0950335a01573f1303f32929097d0f7060acd1948",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/Helvetica"
+      ]
+    },
+    {
+      "path": "2026-11-18/枯莲叶的卷边与孔洞/枯莲叶的卷边与孔洞_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "746686985a8c175ee32a07fdeb0590745d1a1e586d644928379fe0969bf5c4b5",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-18/残茎之间的间隔/残茎之间的间隔_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "d5c956e92be4b9af1d15d61b050d846ce04efd1ae0f8c1c46e787a7014cc5c82",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-18/残荷的茎与蓬/残荷的茎与蓬_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "6c856815dd33686313e63f7e579e5a15d548f82e615ba5fd10abb5caa5e7c710",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    }
+  ]
+}
