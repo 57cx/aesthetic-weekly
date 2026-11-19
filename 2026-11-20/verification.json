@@ -1,0 +1,123 @@
+{
+  "issue": "2026-11-20",
+  "kind": "daily",
+  "photos": 10,
+  "pdfs": 3,
+  "pdf_pages": 36,
+  "duplicate_source_title_matches": [],
+  "duplicate_sha256_matches": [],
+  "unique_current_photos": 10,
+  "image_decode_and_min_dimensions": "pass",
+  "source_pages_authors_licenses": [
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Scotch_Bay_Jetty_-_geograph.org.uk_-_4824195.jpg",
+      "author": "Deborah Tilley",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:20200124_St._Eligius_V%C3%B6lklingen_03.jpg",
+      "author": "Flocci Nivis",
+      "license": "CC BY 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Bix_and_Assendon_-_Lawrences_Farmhouse_-_20231021154550.jpg",
+      "author": "Simon Burchell",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Moscow_-_Kolomenskaya_St._in_overcast_summer_day3.jpg",
+      "author": "Юрий Д.К.",
+      "license": "CC BY 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Naturschutzgebiet_Herrensee,_Lange-Damm-Wiesen_und_Barnim-H%C3%A4nge_lub_2025-12-13_img05_Herrensee.jpg",
+      "author": "Lukas Beck",
+      "license": "CC BY 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Coleridge_Road,_grey_sky_and_bare_branches_-_geograph.org.uk_-_7350983.jpg",
+      "author": "John Sutton",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:The_Sun_Oak_on_a_dull_day_-_geograph.org.uk_-_2309031.jpg",
+      "author": "Dave Spicer",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Trees_profiled_against_a_winter_sky_-_geograph.org.uk_-_5992210.jpg",
+      "author": "John H Darch",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Russia,_Krasnojarsk,_Norilsk_-_%D0%94%D1%8B%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F_%D1%82%D1%80%D1%83%D0%B1%D0%B0_WMID3423280.jpg",
+      "author": "poca",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:The_crane_and_One_Rincon_Hill_South_Tower_against_an_overcast_sky,_SF.JPG",
+      "author": "Cheers. Trance addict - Armin van Buuren - Oceanlab",
+      "license": "CC BY-SA 3.0"
+    }
+  ],
+  "all_pdf_pages_rendered": "pass",
+  "pdf_text_and_page_bounds": "pass",
+  "photo_three_page_structure": {
+    "2026-11-20/低反差里先找轮廓/低反差里先找轮廓_点评与思考.pdf": 5,
+    "2026-11-20/灰白天光下分开前后/灰白天光下分开前后_点评与思考.pdf": 5
+  },
+  "photos_with_nine_sections": 10,
+  "analysis_hanzi_per_photo": [
+    1148,
+    1125,
+    1115,
+    1192,
+    1194,
+    1284,
+    1192,
+    1130,
+    1150,
+    1101
+  ],
+  "analysis_hanzi_total": 11631,
+  "all_manuscript_paragraphs_present_in_pdfs": "pass",
+  "all_used_text_fonts_embedded_noto_sans_sc": "pass",
+  "font_license": "SIL Open Font License 1.1",
+  "files": [
+    {
+      "path": "2026-11-20/今日导读.pdf",
+      "pages": 4,
+      "sha256": "bd0c95a90ff2e7d1d30a9aa4924fb3eefea70a64ee57f07407b324124de9ae3b",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ]
+    },
+    {
+      "path": "2026-11-20/低反差里先找轮廓/低反差里先找轮廓_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "ef9f8d7b0b3fe2678902f19a86d0860a511907e5948e587e1f4a3788c5715021",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-20/灰白天光下分开前后/灰白天光下分开前后_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "214db0e91294713b96397b94f66bf01e98a1ccabe4c7097b6404b3eebea1d744",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    }
+  ]
+}
