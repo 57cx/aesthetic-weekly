@@ -1,0 +1,2474 @@
+{
+  "issue": "2026-11-21",
+  "photos": [
+    {
+      "path": "2026-11-21/小雪前的地平线/01.jpg",
+      "commons_title": "File:Farmland outside Ritzville, Washington.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Farmland_outside_Ritzville,_Washington.jpg",
+      "author": "PinchyCC",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Farmland_outside_Ritzville%2C_Washington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Farmland_outside_Ritzville%2C_Washington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "da3203eb398ff54ddbf96364a1b7c6ce7a506b0e",
+      "sha256": "8ff86b69a7854d50cf9f44475f091f9401d1ea69f64720e4694a0de89d30584b",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Apple"
+        },
+        {
+          "name": "Model",
+          "value": "iPhone 13 Pro"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "18.1.1"
+        },
+        {
+          "name": "DateTime",
+          "value": "2025:01:06 13:48:10"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/1344"
+        },
+        {
+          "name": "FNumber",
+          "value": "3/2"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 50
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0232"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2025:01:06 13:48:10"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2025:01:06 13:48:10"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "111999/10777"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "27767/23734"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "39311/4650"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "57/10"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "608"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "608"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 26
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/小雪前的地平线/02.jpg",
+      "commons_title": "File:Ploughed field and big sky - geograph.org.uk - 5090265.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ploughed_field_and_big_sky_-_geograph.org.uk_-_5090265.jpg",
+      "author": "David P Howard",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ploughed_field_and_big_sky_-_geograph.org.uk_-_5090265.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ploughed_field_and_big_sky_-_geograph.org.uk_-_5090265.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "3c165f562306c33315b1d8defbeffe9617cb4d76",
+      "sha256": "499dfc6c8399f5900a826920b6d98e635458b8aacfd90e295732a59e4bdcd3c4",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon EOS 6D"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "YResolution",
+          "value": "3000000/10000"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop CC 2015.5 (Windows)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2016:08:26 17:34:23"
+        },
+        {
+          "name": "Artist",
+          "value": "David P Howard"
+        },
+        {
+          "name": "Copyright",
+          "value": "David P Howard\n\n"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/500"
+        },
+        {
+          "name": "FNumber",
+          "value": "8/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2016:08:23 15:06:36"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2016:08:23 15:06:36"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "8965784/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "6/1"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "4/1"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "24/1"
+        },
+        {
+          "name": "SubSecTime",
+          "value": "00"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "00"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "00"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "49807360/32768"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "49807360/32768"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 3
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "SerialNumber",
+          "value": "243020005359"
+        },
+        {
+          "name": "Lens",
+          "value": "EF24-105mm f/4L IS USM"
+        },
+        {
+          "name": "Rating",
+          "value": "0"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2016:08:26 18:34:23"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "7BE876567B7BEA4B5DA84043574A372B"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/小雪前的地平线/03.jpg",
+      "commons_title": "File:Ploughed Field, Tree, Powerline, Woods, Sky, Clouds - geograph.org.uk - 6314166.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ploughed_Field,_Tree,_Powerline,_Woods,_Sky,_Clouds_-_geograph.org.uk_-_6314166.jpg",
+      "author": "Bob Harvey",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Ploughed_Field%2C_Tree%2C_Powerline%2C_Woods%2C_Sky%2C_Clouds_-_geograph.org.uk_-_6314166.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Ploughed_Field%2C_Tree%2C_Powerline%2C_Woods%2C_Sky%2C_Clouds_-_geograph.org.uk_-_6314166.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "e4490b4b30d30abffede813bc9027fc8a97d5d70",
+      "sha256": "8f2c714b285d037d93609311069889afad48a0c35eb6169c8a495b80639285b2",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "FUJIFILM"
+        },
+        {
+          "name": "Model",
+          "value": "X-T30"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "100/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "100/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Digital Camera X-T30 Ver1.10"
+        },
+        {
+          "name": "DateTime",
+          "value": "2019:11:03 15:16:07"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "10/800"
+        },
+        {
+          "name": "FNumber",
+          "value": "1800/100"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 3
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 320
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2019:11:03 14:16:07"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2019:11:03 15:16:07"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "48/10"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "639/100"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "830/100"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "836/100"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/100"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "360/100"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 0
+        },
+        {
+          "name": "FocalLength",
+          "value": "5500/100"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "2660/1"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "2660/1"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 3
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 83
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "SubjectDistanceRange",
+          "value": 0
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/小雪前的地平线/04.jpg",
+      "commons_title": "File:Cornfield under a grey sky near Tinhay - geograph.org.uk - 4645345.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cornfield_under_a_grey_sky_near_Tinhay_-_geograph.org.uk_-_4645345.jpg",
+      "author": "David Smith",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cornfield_under_a_grey_sky_near_Tinhay_-_geograph.org.uk_-_4645345.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cornfield_under_a_grey_sky_near_Tinhay_-_geograph.org.uk_-_4645345.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "da40dbe3b3a151fa4d0ef330dd3dc47a594664d0",
+      "sha256": "c680fccf3f34dc9a8d9fa09bc3e6582d9bb3373a99ba9656c668758cc7b9d1c9",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Panasonic"
+        },
+        {
+          "name": "Model",
+          "value": "DMC-TZ60"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Ver.1.0  "
+        },
+        {
+          "name": "DateTime",
+          "value": "2015:08:28 16:33:13"
+        },
+        {
+          "name": "Artist",
+          "value": null
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "10/2000"
+        },
+        {
+          "name": "FNumber",
+          "value": "35/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2015:08:28 16:33:13"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2015:08:28 16:33:13"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "4/1"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/100"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "463/128"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "50/10"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "0/10"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 29
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 0
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/小雪前的地平线/05.jpg",
+      "commons_title": "File:Dunstanburgh Castle September 2019 01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dunstanburgh_Castle_September_2019_01.jpg",
+      "author": "MikeyBee1966",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Dunstanburgh_Castle_September_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Dunstanburgh_Castle_September_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "e0ee39d0b361d815f754d6b2a2f213c6e737d937",
+      "sha256": "fc47e5254ff60d0d535c0e0734ee05efa7f9a0e2c20429374a5ef3e6fa50ce78",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon EOS 550D"
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "DateTime",
+          "value": "2019:09:03 14:56:47"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/200"
+        },
+        {
+          "name": "FNumber",
+          "value": "8/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 8
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0221"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2019:09:03 14:56:47"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2019:09:03 14:56:47"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "61/8"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "6/1"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "4/1"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "70/1"
+        },
+        {
+          "name": "SubSecTime",
+          "value": "08"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "08"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "08"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "1036800/181"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "691200/119"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "iimVersion",
+          "value": 2
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/灰天空占画面的比例/01.jpg",
+      "commons_title": "File:Dark Sky on the Countryside (31591002612).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dark_Sky_on_the_Countryside_(31591002612).jpg",
+      "author": "Susanne Nilsson",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Dark_Sky_on_the_Countryside_%2831591002612%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Dark_Sky_on_the_Countryside_%2831591002612%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "5d73aaa8ce1007a124d2a33b383b0962ff8279ba",
+      "sha256": "8ba038e00665b3f2c67a8d12be9bbb921b59f898cf9f6172f8bd2a80384ba671",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon EOS 760D"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "100/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "100/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Lightroom 6.0 (Macintosh)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2016:12:17 16:13:21"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/320"
+        },
+        {
+          "name": "FNumber",
+          "value": "10/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2016:10:23 13:21:54"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2016:10:23 13:21:54"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "8321928/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "6643856/1000000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "-2/3"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "4125/1000"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "32/1"
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "6000000/893"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "4000000/594"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "SerialNumber",
+          "value": "023031002953"
+        },
+        {
+          "name": "Lens",
+          "value": "EF-S18-200mm f/3.5-5.6 IS"
+        },
+        {
+          "name": "Rating",
+          "value": "2"
+        },
+        {
+          "name": "Label",
+          "value": "Lila"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2016:12:17 17:13:23"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "F808981F4B182362E1AA017876373485"
+        },
+        {
+          "name": "ObjectName",
+          "value": "Dark Sky on the Countryside\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "\n*Söderslätt\n*autumn\n*cloud\n*countryside\n*höst\n*landsbygd\n*landscape\n*landskap\n*sky\n*tree\n*träd"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/灰天空占画面的比例/02.jpg",
+      "commons_title": "File:Netherlands, Ane (Gramsbergen), Anereschweg (03).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Netherlands,_Ane_(Gramsbergen),_Anereschweg_(03).jpg",
+      "author": "Vincent van Zeijst",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Netherlands%2C_Ane_%28Gramsbergen%29%2C_Anereschweg_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Netherlands%2C_Ane_%28Gramsbergen%29%2C_Anereschweg_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "fd9f1d6b1113e656e6ed01eb837606581e62990d",
+      "sha256": "5853e62ee49eb404180f60aca0bc3ac958fdb0338cea42262674b40ba7b11530",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Apple"
+        },
+        {
+          "name": "Model",
+          "value": "iPhone 12"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "16.6.1"
+        },
+        {
+          "name": "DateTime",
+          "value": "2023:11:11 14:32:18"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/1335"
+        },
+        {
+          "name": "FNumber",
+          "value": "8/5"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 32
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0232"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2023:11:11 14:32:18"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2023:11:11 14:32:18"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "20942/2017"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "14447/10653"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "47605/5694"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 3
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "21/5"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "104"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "104"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 26
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/灰天空占画面的比例/03.jpg",
+      "commons_title": "File:Dark Sky on the Countryside (30896347914).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dark_Sky_on_the_Countryside_(30896347914).jpg",
+      "author": "Susanne Nilsson",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Dark_Sky_on_the_Countryside_%2830896347914%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Dark_Sky_on_the_Countryside_%2830896347914%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "e07b3baf37a8df9e89b744cb99c4225f978e2788",
+      "sha256": "719cc8efe87e8fef55c83061bd7c2d9d6af2cafd7350e5e37151b660601ad132",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon EOS 760D"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "100/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "100/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Lightroom 6.0 (Macintosh)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2016:12:17 16:13:31"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/160"
+        },
+        {
+          "name": "FNumber",
+          "value": "8/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2016:10:23 13:22:35"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2016:10:23 13:22:35"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "7321928/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "6/1"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "-2/3"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "45/10"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "50/1"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "9"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "9"
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "6000000/893"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "4000000/594"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "SerialNumber",
+          "value": "023031002953"
+        },
+        {
+          "name": "Lens",
+          "value": "EF-S18-200mm f/3.5-5.6 IS"
+        },
+        {
+          "name": "Rating",
+          "value": "2"
+        },
+        {
+          "name": "Label",
+          "value": "Lila"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2016:12:17 17:13:34"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "7AE135503572AFAC2910966729F21DA1"
+        },
+        {
+          "name": "ObjectName",
+          "value": "Dark Sky on the Countryside\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "\n*Söderslätt\n*autumn\n*cloud\n*countryside\n*höst\n*landsbygd\n*landscape\n*landskap\n*sky\n*tree\n*träd"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/灰天空占画面的比例/04.jpg",
+      "commons_title": "File:Grey sky towards Haverhill - geograph.org.uk - 6578517.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Grey_sky_towards_Haverhill_-_geograph.org.uk_-_6578517.jpg",
+      "author": "David Howard",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Grey_sky_towards_Haverhill_-_geograph.org.uk_-_6578517.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Grey_sky_towards_Haverhill_-_geograph.org.uk_-_6578517.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "f1b6aa01ee63972e36c3692c84582d08b820dd86",
+      "sha256": "97152fe24efcd0a23c31c81d1eb12fff4088cbd1910aff17866d58067f57b883",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon EOS 750D"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "DateTime",
+          "value": "2020:08:23 21:40:43"
+        },
+        {
+          "name": "Artist",
+          "value": null
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "Copyright",
+          "value": null
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/200"
+        },
+        {
+          "name": "FNumber",
+          "value": "10/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 0
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2020:08:23 16:23:32"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2020:08:23 16:23:32"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "499712/65536"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "434176/65536"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "24/1"
+        },
+        {
+          "name": "SubSecTime",
+          "value": "95"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "95"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "95"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "1920000/893"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "1280000/594"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "Rating",
+          "value": "0"
+        },
+        {
+          "name": "Software",
+          "value": "Microsoft Photo Gallery 16.4.3528.331"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/灰天空占画面的比例/05.jpg",
+      "commons_title": "File:Grey sky over Melling - geograph.org.uk - 3068853.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Grey_sky_over_Melling_-_geograph.org.uk_-_3068853.jpg",
+      "author": "Emma White",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Grey_sky_over_Melling_-_geograph.org.uk_-_3068853.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Grey_sky_over_Melling_-_geograph.org.uk_-_3068853.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "0c85a660a37253ccd455680e93c926528c94b617",
+      "sha256": "c4327fefd7d07a730267be33f98c754bd05afc044b9e67c1c944134be5f04935",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon DIGITAL IXUS 75"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "DateTime",
+          "value": "2012:08:01 18:33:38"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/200"
+        },
+        {
+          "name": "FNumber",
+          "value": "28/10"
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 80
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0220"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2012:08:01 18:33:38"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2012:08:01 18:33:38"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "5/1"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "245/32"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "95/32"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/3"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "95/32"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "5800/1000"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "3072000/225"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "2304000/169"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 1
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "3072/3072"
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 1
+        },
+        {
+          "name": "Software",
+          "value": "Microsoft Windows Live Photo Gallery 15.4.3555.308"
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/地平线上疏朗的树/01.jpg",
+      "commons_title": "File:Trees on the skyline - geograph.org.uk - 4739915.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Trees_on_the_skyline_-_geograph.org.uk_-_4739915.jpg",
+      "author": "Bob Harvey",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Trees_on_the_skyline_-_geograph.org.uk_-_4739915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Trees_on_the_skyline_-_geograph.org.uk_-_4739915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "f5b8529e4f8e0331234939a895c7c869b7fc8ff1",
+      "sha256": "260a1c2af8651b812a6fac83aeb4b9a4eb7438693d61591c2687b61d56295d3d",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Panasonic"
+        },
+        {
+          "name": "Model",
+          "value": "DMC-TZ40"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Ver.1.3  "
+        },
+        {
+          "name": "DateTime",
+          "value": "2015:11:11 13:31:38"
+        },
+        {
+          "name": "Artist",
+          "value": null
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 2
+        },
+        {
+          "name": "ExposureTime",
+          "value": "10/800"
+        },
+        {
+          "name": "FNumber",
+          "value": "56/10"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 125
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2015:11:11 13:31:38"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2015:11:11 13:31:38"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "4/1"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/100"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "633/128"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "LightSource",
+          "value": 0
+        },
+        {
+          "name": "Flash",
+          "value": 24
+        },
+        {
+          "name": "FocalLength",
+          "value": "382/10"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 1
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "0/10"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 236
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "GainControl",
+          "value": 1
+        },
+        {
+          "name": "Contrast",
+          "value": 0
+        },
+        {
+          "name": "Saturation",
+          "value": 0
+        },
+        {
+          "name": "Sharpness",
+          "value": 0
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/地平线上疏朗的树/02.jpg",
+      "commons_title": "File:Trees on the skyline - geograph.org.uk - 7710311.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Trees_on_the_skyline_-_geograph.org.uk_-_7710311.jpg",
+      "author": "John H Darch",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Trees_on_the_skyline_-_geograph.org.uk_-_7710311.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Trees_on_the_skyline_-_geograph.org.uk_-_7710311.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "7dbef721f03c715d34e95b47c35e0e8b0953dc2f",
+      "sha256": "4651f5a0b9ec11bc981500927afb91d50bca09262024271f527cf240e2e3395b",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Apple"
+        },
+        {
+          "name": "Model",
+          "value": "iPhone 13"
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "17.2.1"
+        },
+        {
+          "name": "DateTime",
+          "value": "2024:02:17 17:11:24"
+        },
+        {
+          "name": "Artist",
+          "value": "Picasa"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/1802"
+        },
+        {
+          "name": "FNumber",
+          "value": "8/5"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 50
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0232"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2024:02:17 11:56:38"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2024:02:17 11:56:38"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "48874/4519"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "14447/10653"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "58771/6551"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "51/10"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "459"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "459"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "1512/835"
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 46
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/地平线上疏朗的树/03.jpg",
+      "commons_title": "File:Grey sky over Dummer - geograph.org.uk - 7417402.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Grey_sky_over_Dummer_-_geograph.org.uk_-_7417402.jpg",
+      "author": "Mr Ignavy",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Grey_sky_over_Dummer_-_geograph.org.uk_-_7417402.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Grey_sky_over_Dummer_-_geograph.org.uk_-_7417402.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "204bab63f7700d23bf98858dc1ad261c5844d45a",
+      "sha256": "2060f6c95aae3d66076121c33a6e198a71c3d8236446deb00f333791f21dc45e",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Apple"
+        },
+        {
+          "name": "Model",
+          "value": "iPhone 12 mini"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "72/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "16.2"
+        },
+        {
+          "name": "DateTime",
+          "value": "2023:02:25 15:02:21"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/818"
+        },
+        {
+          "name": "FNumber",
+          "value": "8/5"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 32
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0232"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2023:02:25 15:02:21"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2023:02:25 15:02:21"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "81999/8474"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "14447/10653"
+        },
+        {
+          "name": "BrightnessValue",
+          "value": "80999/10706"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/1"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "21/5"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "044"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "044"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "ColorSpace",
+          "value": 65535
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "SceneType",
+          "value": 1
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "FocalLengthIn35mmFilm",
+          "value": 26
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/地平线上疏朗的树/04.jpg",
+      "commons_title": "File:Dark Sky on the Countryside (30896516544).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Dark_Sky_on_the_Countryside_(30896516544).jpg",
+      "author": "Susanne Nilsson",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Dark_Sky_on_the_Countryside_%2830896516544%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Dark_Sky_on_the_Countryside_%2830896516544%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "63ee5ebefde2a58d4e8217485d6f6c2ea592c97c",
+      "sha256": "1586e208b861bcd73a5774f8593103a94f559aa4a4ad3f0b48814775d4b393a7",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon EOS 760D"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "100/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "100/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Adobe Photoshop Lightroom 6.0 (Macintosh)"
+        },
+        {
+          "name": "DateTime",
+          "value": "2016:12:17 16:13:06"
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/250"
+        },
+        {
+          "name": "FNumber",
+          "value": "9/1"
+        },
+        {
+          "name": "ExposureProgram",
+          "value": 2
+        },
+        {
+          "name": "ISOSpeedRatings",
+          "value": 100
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0230"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2016:10:23 13:21:49"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2016:10:23 13:21:49"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "7965784/1000000"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "633985/100000"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "-2/3"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "4375/1000"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "50/1"
+        },
+        {
+          "name": "SubSecTimeOriginal",
+          "value": "33"
+        },
+        {
+          "name": "SubSecTimeDigitized",
+          "value": "33"
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "6000000/893"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "4000000/594"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 0
+        },
+        {
+          "name": "SerialNumber",
+          "value": "023031002953"
+        },
+        {
+          "name": "Lens",
+          "value": "EF-S18-200mm f/3.5-5.6 IS"
+        },
+        {
+          "name": "Rating",
+          "value": "2"
+        },
+        {
+          "name": "Label",
+          "value": "Lila"
+        },
+        {
+          "name": "DateTimeMetadata",
+          "value": "2016:12:17 17:13:09"
+        },
+        {
+          "name": "OriginalDocumentID",
+          "value": "DF40620ED4E29069D1041747BDAD2910"
+        },
+        {
+          "name": "ObjectName",
+          "value": "Dark Sky on the Countryside\n\n"
+        },
+        {
+          "name": "Keywords",
+          "value": "\n*Söderslätt\n*autumn\n*cloud\n*countryside\n*höst\n*landsbygd\n*landscape\n*landskap\n*sky\n*tree\n*träd"
+        },
+        {
+          "name": "iimVersion",
+          "value": 4
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "path": "2026-11-21/地平线上疏朗的树/05.jpg",
+      "commons_title": "File:Trees on the skyline - geograph.org.uk - 2766641.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Trees_on_the_skyline_-_geograph.org.uk_-_2766641.jpg",
+      "author": "Gordon Hatton",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Trees_on_the_skyline_-_geograph.org.uk_-_2766641.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Trees_on_the_skyline_-_geograph.org.uk_-_2766641.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "original_sha1": "bac355b5a10b57fe60f517b643b7aae907696a6f",
+      "sha256": "be0a91cf0c6c0e1a215ac731c0243a89eb4cf2bbd7c4384e88550209a91d4a9c",
+      "modifications": "Commons file; no crop or color edit",
+      "original_metadata": [
+        {
+          "name": "Make",
+          "value": "Canon"
+        },
+        {
+          "name": "Model",
+          "value": "Canon PowerShot A630"
+        },
+        {
+          "name": "Orientation",
+          "value": 1
+        },
+        {
+          "name": "XResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "YResolution",
+          "value": "180/1"
+        },
+        {
+          "name": "ResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "Software",
+          "value": "Microsoft Windows Live Photo Gallery14.0.8051.1204"
+        },
+        {
+          "name": "DateTime",
+          "value": "2012:01:13 17:42:26"
+        },
+        {
+          "name": "YCbCrPositioning",
+          "value": 1
+        },
+        {
+          "name": "ExposureTime",
+          "value": "1/1000"
+        },
+        {
+          "name": "FNumber",
+          "value": "40/10"
+        },
+        {
+          "name": "ExifVersion",
+          "value": "0220"
+        },
+        {
+          "name": "DateTimeOriginal",
+          "value": "2012:01:09 14:27:36"
+        },
+        {
+          "name": "DateTimeDigitized",
+          "value": "2012:01:09 14:27:36"
+        },
+        {
+          "name": "CompressedBitsPerPixel",
+          "value": "3/1"
+        },
+        {
+          "name": "ShutterSpeedValue",
+          "value": "319/32"
+        },
+        {
+          "name": "ApertureValue",
+          "value": "128/32"
+        },
+        {
+          "name": "ExposureBiasValue",
+          "value": "0/3"
+        },
+        {
+          "name": "MaxApertureValue",
+          "value": "116/32"
+        },
+        {
+          "name": "MeteringMode",
+          "value": 5
+        },
+        {
+          "name": "Flash",
+          "value": 16
+        },
+        {
+          "name": "FocalLength",
+          "value": "17342/1000"
+        },
+        {
+          "name": "FlashPixVersion",
+          "value": "0100"
+        },
+        {
+          "name": "FocalPlaneXResolution",
+          "value": "3264000/286"
+        },
+        {
+          "name": "FocalPlaneYResolution",
+          "value": "2448000/214"
+        },
+        {
+          "name": "FocalPlaneResolutionUnit",
+          "value": 2
+        },
+        {
+          "name": "SensingMethod",
+          "value": 2
+        },
+        {
+          "name": "FileSource",
+          "value": 3
+        },
+        {
+          "name": "CustomRendered",
+          "value": 0
+        },
+        {
+          "name": "ExposureMode",
+          "value": 0
+        },
+        {
+          "name": "WhiteBalance",
+          "value": 0
+        },
+        {
+          "name": "DigitalZoomRatio",
+          "value": "3264/3264"
+        },
+        {
+          "name": "SceneCaptureType",
+          "value": 1
+        },
+        {
+          "name": "MEDIAWIKI_EXIF_VERSION",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}
