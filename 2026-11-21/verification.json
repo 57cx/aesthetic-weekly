@@ -1,0 +1,166 @@
+{
+  "issue": "2026-11-21",
+  "kind": "daily",
+  "photos": 15,
+  "pdfs": 4,
+  "pdf_pages": 52,
+  "duplicate_source_title_matches": [],
+  "duplicate_sha256_matches": [],
+  "unique_current_photos": 15,
+  "image_decode_and_min_dimensions": "pass",
+  "source_pages_authors_licenses": [
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Farmland_outside_Ritzville,_Washington.jpg",
+      "author": "PinchyCC",
+      "license": "CC BY 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Ploughed_field_and_big_sky_-_geograph.org.uk_-_5090265.jpg",
+      "author": "David P Howard",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Ploughed_Field,_Tree,_Powerline,_Woods,_Sky,_Clouds_-_geograph.org.uk_-_6314166.jpg",
+      "author": "Bob Harvey",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Cornfield_under_a_grey_sky_near_Tinhay_-_geograph.org.uk_-_4645345.jpg",
+      "author": "David Smith",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Dunstanburgh_Castle_September_2019_01.jpg",
+      "author": "MikeyBee1966",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Dark_Sky_on_the_Countryside_(31591002612).jpg",
+      "author": "Susanne Nilsson",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Netherlands,_Ane_(Gramsbergen),_Anereschweg_(03).jpg",
+      "author": "Vincent van Zeijst",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Dark_Sky_on_the_Countryside_(30896347914).jpg",
+      "author": "Susanne Nilsson",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Grey_sky_towards_Haverhill_-_geograph.org.uk_-_6578517.jpg",
+      "author": "David Howard",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Grey_sky_over_Melling_-_geograph.org.uk_-_3068853.jpg",
+      "author": "Emma White",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Trees_on_the_skyline_-_geograph.org.uk_-_4739915.jpg",
+      "author": "Bob Harvey",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Trees_on_the_skyline_-_geograph.org.uk_-_7710311.jpg",
+      "author": "John H Darch",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Grey_sky_over_Dummer_-_geograph.org.uk_-_7417402.jpg",
+      "author": "Mr Ignavy",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Dark_Sky_on_the_Countryside_(30896516544).jpg",
+      "author": "Susanne Nilsson",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Trees_on_the_skyline_-_geograph.org.uk_-_2766641.jpg",
+      "author": "Gordon Hatton",
+      "license": "CC BY-SA 2.0"
+    }
+  ],
+  "all_pdf_pages_rendered": "pass",
+  "pdf_text_and_page_bounds": "pass",
+  "photo_three_page_structure": {
+    "2026-11-21/地平线上疏朗的树/地平线上疏朗的树_点评与思考.pdf": 5,
+    "2026-11-21/小雪前的地平线/小雪前的地平线_点评与思考.pdf": 5,
+    "2026-11-21/灰天空占画面的比例/灰天空占画面的比例_点评与思考.pdf": 5
+  },
+  "photos_with_nine_sections": 15,
+  "analysis_hanzi_per_photo": [
+    1005,
+    1010,
+    1027,
+    1000,
+    1006,
+    1072,
+    1010,
+    1014,
+    1030,
+    1021,
+    1020,
+    1025,
+    1009,
+    1009,
+    1004
+  ],
+  "analysis_hanzi_total": 15262,
+  "all_manuscript_paragraphs_present_in_pdfs": "pass",
+  "all_used_text_fonts_embedded_noto_sans_sc": "pass",
+  "font_license": "SIL Open Font License 1.1",
+  "files": [
+    {
+      "path": "2026-11-21/今日导读.pdf",
+      "pages": 4,
+      "sha256": "5ed9114cf2d5f85d29cfa1618a1922d0fe96a407f9909abbf16d76caceebed56",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ]
+    },
+    {
+      "path": "2026-11-21/地平线上疏朗的树/地平线上疏朗的树_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "061eef56d06946363fb105c3d9e2fe884a16b03c5dcefd20fd403b5aa4b1d10f",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-21/小雪前的地平线/小雪前的地平线_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "8127ae1716508f1f825b5a31b484d578ee8d16e6c68455524f076427c44ad616",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-21/灰天空占画面的比例/灰天空占画面的比例_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "f074e35253e4dd33a39e172da0d80911e4d62104d9e4b43c7f5dae01c1858ad1",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    }
+  ]
+}
