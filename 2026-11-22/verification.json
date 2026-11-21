@@ -1,0 +1,252 @@
+{
+  "issue": "2026-11-22",
+  "kind": "daily",
+  "photos": 25,
+  "pdfs": 6,
+  "pdf_pages": 84,
+  "duplicate_source_title_matches": [],
+  "duplicate_sha256_matches": [],
+  "unique_current_photos": 25,
+  "image_decode_and_min_dimensions": "pass",
+  "source_pages_authors_licenses": [
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Dusting_of_snow_(5204704185).jpg",
+      "author": "Forest Service - Northern Region",
+      "license": "Public domain"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:2025-11-17_07_17_31_A_light_dusting_of_graupel_(snow_pellets)_on_a_garage_roof_and_car_along_Aquetong_Lane_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Bicycleinthesnow.jpg",
+      "author": "DustSpinner",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Bulhus_barn_with_snow_Den_Gamle_By_museum_Aarhus_01.jpg",
+      "author": "Ciara Ní Riain",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:A_light_snow_was_covering_the_north_side_of_this_sumac_fruit._(31431415012).jpg",
+      "author": "David Whelan",
+      "license": "CC0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Windswept_snow_against_stone_wall_-_geograph.org.uk_-_2887266.jpg",
+      "author": "Martin Dawes",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Snow_on_gate_near_Torre_Station_-_geograph.org.uk_-_5714809.jpg",
+      "author": "Derek Harper",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Windswept_snow_on_stairs_in_Lysekil_1.jpg",
+      "author": "W.carter",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Icy_snow_on_a_twig.jpg",
+      "author": "Kritzolina",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Snow-Covered_Stone_Wall_-_Cherohala_Skyway,_Tennessee_-_November_2,_2014.jpg",
+      "author": "Lee Ann Ratledge",
+      "license": "CC BY 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Twigs_in_the_snow,_2022-02-08,_01.jpg",
+      "author": "Cbaile19",
+      "license": "CC0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Iris_leaves_in_the_snow_-_geograph.org.uk_-_5718960.jpg",
+      "author": "Derek Harper",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Rush_plant_in_new_snow_against_rock._(a4db251e33ef4b3c8c1a7c67cb1bcb3c).JPG",
+      "author": "Steve Redman",
+      "license": "Public domain"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Twigs_in_the_snow_in_Tuntorp.jpg",
+      "author": "W.carter",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Dusting_of_snow_on_a_granite_cliff_in_Brastad.jpg",
+      "author": "W.carter",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Single_leaf_in_snow_(51306075647).jpg",
+      "author": "Chris Rycroft",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:SNF_Tofte_FC102213_fallen_leaf_on_snow_(10427181996).jpg",
+      "author": "usfs_Eastern_Region",
+      "license": "Public domain"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:2025-11-17_07_14_46_A_light_dusting_of_graupel_(snow_pellets)_on_fallen_leaves_along_Aquetong_Lane_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:2019-12-11_07_33_46_Light_snow_on_Forsythia_leaves_in_late_autumn_along_Tranquility_Court_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Leaves_%26_snow_01.JPG",
+      "author": "Wald1siedel",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Wraxall_2009_MMB_06.jpg",
+      "author": "mattbuck",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Trace_snowfall.jpg",
+      "author": "Runningonbrains",
+      "license": "CC0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:SnowMeltingOnPavingStones.jpg",
+      "author": "Martinvl",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Part_of_an_old_stone_wall_at_Myrstigen_1.jpg",
+      "author": "W.carter",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Windblown_snow_on_a_wall.jpg",
+      "author": "W.carter",
+      "license": "Public domain"
+    }
+  ],
+  "all_pdf_pages_rendered": "pass",
+  "pdf_text_and_page_bounds": "pass",
+  "photo_three_page_structure": {
+    "2026-11-22/没被盖住的落叶/没被盖住的落叶_点评与思考.pdf": 5,
+    "2026-11-22/薄白覆盖下还在的纹理/薄白覆盖下还在的纹理_点评与思考.pdf": 5,
+    "2026-11-22/薄雪改写已知的形状/薄雪改写已知的形状_点评与思考.pdf": 5,
+    "2026-11-22/薄雪沿边堆厚/薄雪沿边堆厚_点评与思考.pdf": 5,
+    "2026-11-22/雪地上的深色线/雪地上的深色线_点评与思考.pdf": 5
+  },
+  "photos_with_nine_sections": 25,
+  "analysis_hanzi_per_photo": [
+    1086,
+    1074,
+    1056,
+    1058,
+    1054,
+    1044,
+    1054,
+    1064,
+    1085,
+    1075,
+    1126,
+    1104,
+    1083,
+    1082,
+    1127,
+    1105,
+    1126,
+    1072,
+    1107,
+    1051,
+    1077,
+    1108,
+    1069,
+    1064,
+    1055
+  ],
+  "analysis_hanzi_total": 27006,
+  "all_manuscript_paragraphs_present_in_pdfs": "pass",
+  "all_used_text_fonts_embedded_noto_sans_sc": "pass",
+  "font_license": "SIL Open Font License 1.1",
+  "files": [
+    {
+      "path": "2026-11-22/今日导读.pdf",
+      "pages": 4,
+      "sha256": "45908ce909bd2ed1b518218a0bdb1c781d36a9fc74ac1156b9ef7e92fcddea2d",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ]
+    },
+    {
+      "path": "2026-11-22/没被盖住的落叶/没被盖住的落叶_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "f440054f42a1f7652f61648a08ad18356abcb722a1f481bb8851d1f16387aef8",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-22/薄白覆盖下还在的纹理/薄白覆盖下还在的纹理_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "b155c7de00e4fd4aa8080be6cd481fcc2895c53f00050422a96d9beac54e2d36",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-22/薄雪改写已知的形状/薄雪改写已知的形状_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "63fce594041696085fb77d6106cb8fbcbc952ad91177c640f37c7f87c21ad7d6",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-22/薄雪沿边堆厚/薄雪沿边堆厚_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "4d01ca713a274c0ed65d4b27ab141e0d83f6bb4b41aee4c9e26379ea76d61da7",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-22/雪地上的深色线/雪地上的深色线_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "1541a31db7876987e3a8f9f358e9a31d5c1aff3d25e63310b61ca46d7daab6e8",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    }
+  ]
+}
