@@ -1,0 +1,166 @@
+{
+  "issue": "2026-11-23",
+  "kind": "daily",
+  "photos": 15,
+  "pdfs": 4,
+  "pdf_pages": 52,
+  "duplicate_source_title_matches": [],
+  "duplicate_sha256_matches": [],
+  "unique_current_photos": 15,
+  "image_decode_and_min_dimensions": "pass",
+  "source_pages_authors_licenses": [
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:2018-03-23_13_32_57_Lingering_patches_of_snow_on_a_yard_along_Tranquility_Court_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Abbey_Park_rock_garden_in_the_snow_-_geograph.org.uk_-_5698504.jpg",
+      "author": "Derek Harper",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Dark_Water_(53529943042).jpg",
+      "author": "Pete from Liverpool, UK",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Patch_of_snow_on_Oak_Edge_-_geograph.org.uk_-_8231369.jpg",
+      "author": "Dave Croker",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:2018-03-23_12_49_09_Lingering_patches_of_snow_in_a_wooded_area_along_Stone_Heather_Drive_(Virginia_State_Route_7283)_in_the_Chantilly_Highlands_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Path_down_Cockington_valley_in_the_snow_-_geograph.org.uk_-_5768755.jpg",
+      "author": "Derek Harper",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Forest_path_in_snow_-_geograph.org.uk_-_5754555.jpg",
+      "author": "Andrew Hill",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Hard-packed_snow_thawing_on_a_path,_St_Nicholas_Park,_Warwick_-_geograph.org.uk_-_5856430.jpg",
+      "author": "Robin Stott",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Snow_by_the_wall,_Lee_Burn_Head_-_geograph.org.uk_-_5735958.jpg",
+      "author": "Jim Barton",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Abbey_Park_rock_garden_in_the_snow_-_geograph.org.uk_-_5698208.jpg",
+      "author": "Derek Harper",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Snow_on_St_Vincent%27s_Rocks_-_geograph.org.uk_-_7433807.jpg",
+      "author": "Neil Owen",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Patch_of_snow_in_the_Lairig_Ghru_(in_July)_-_geograph.org.uk_-_1974018.jpg",
+      "author": "Peter S",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Tree_trunk_with_moss_and_snow_in_Tuntorp.jpg",
+      "author": "W.carter",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Snow_pocket_on_Arden_Great_Moor_-_geograph.org.uk_-_1766409.jpg",
+      "author": "Philip Barker",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:2026-03-08_13_01_14_Lingering_patches_of_snow_within_the_forest_of_Ann_M._Banchoff_Park_almost_two_weeks_after_a_winter_storm_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "all_pdf_pages_rendered": "pass",
+  "pdf_text_and_page_bounds": "pass",
+  "photo_three_page_structure": {
+    "2026-11-23/大面积暗里的一小块白/大面积暗里的一小块白_点评与思考.pdf": 5,
+    "2026-11-23/深色形状怎样连成结构/深色形状怎样连成结构_点评与思考.pdf": 5,
+    "2026-11-23/雪盖不住的深色/雪盖不住的深色_点评与思考.pdf": 5
+  },
+  "photos_with_nine_sections": 15,
+  "analysis_hanzi_per_photo": [
+    1008,
+    1015,
+    1001,
+    1002,
+    1020,
+    1002,
+    1006,
+    1006,
+    1006,
+    1016,
+    1005,
+    1023,
+    1005,
+    1046,
+    1009
+  ],
+  "analysis_hanzi_total": 15170,
+  "all_manuscript_paragraphs_present_in_pdfs": "pass",
+  "all_used_text_fonts_embedded_noto_sans_sc": "pass",
+  "font_license": "SIL Open Font License 1.1",
+  "files": [
+    {
+      "path": "2026-11-23/今日导读.pdf",
+      "pages": 4,
+      "sha256": "da1f70af9f5001cc103ac50815df08657cb871ecdb59e45b54abbab2e82c0a83",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ]
+    },
+    {
+      "path": "2026-11-23/大面积暗里的一小块白/大面积暗里的一小块白_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "ae8aff6b80fac6fd2f11b050578830b63dd1c43ddd4e25659e3cbf52713ec5e7",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-23/深色形状怎样连成结构/深色形状怎样连成结构_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "3d9b464939b0e83545041488300110ef6383e59e1b70d50292521a9eb452f69f",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-23/雪盖不住的深色/雪盖不住的深色_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "65ac009e9be28b14b071bcd02912ba163059ed7ab9563d639bfaf242b72e7083",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    }
+  ]
+}
