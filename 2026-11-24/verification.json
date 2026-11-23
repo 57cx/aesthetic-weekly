@@ -1,0 +1,166 @@
+{
+  "issue": "2026-11-24",
+  "kind": "daily",
+  "photos": 15,
+  "pdfs": 4,
+  "pdf_pages": 52,
+  "duplicate_source_title_matches": [],
+  "duplicate_sha256_matches": [],
+  "unique_current_photos": 15,
+  "image_decode_and_min_dimensions": "pass",
+  "source_pages_authors_licenses": [
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_Railings_and_Fences_Hermitage_in_Winter_(4263566595).jpg",
+      "author": "marsupium photography",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:All_Hallows_Church_Tottenham_Haringey_England_-_churchyard_chest_tombs_1.jpg",
+      "author": "Acabashi",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Rawmarsh_-_St_Mary%27s_Church_-_churchyard_railings_-_geograph.org.uk_-_3792071.jpg",
+      "author": "Dave Bevis",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Gate_and_winter_trees_at_Clovenrocks_Bridge_-_geograph.org.uk_-_7126526.jpg",
+      "author": "David Smith",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Bracken_and_bare_trees_against_a_winter_sky_-_geograph.org.uk_-_8205772.jpg",
+      "author": "John H Darch",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Railings_and_trees_at_the_eastern_end_of_Mill_Street,_Newport_-_geograph.org.uk_-_6277427.jpg",
+      "author": "Jaggery",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Churchyard_railings,_Harby_-_geograph.org.uk_-_3073263.jpg",
+      "author": "Alan Murray-Rust",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:The_River_Spean_seen_through_the_bars_of_Inverlair_Bridge_-_geograph.org.uk_-_7264239.jpg",
+      "author": "David Medcalf",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Through_the_railings_(8164953439).jpg",
+      "author": "Craig Sunter from Manchester, UK",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Upton_Park_through_the_railings_-_geograph.org.uk_-_5556623.jpg",
+      "author": "Derek Harper",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Fence,_Interrupted_(26356466040).jpg",
+      "author": "Coastal Elite from Halifax, Canada",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:A_happy_tree_(51196709547).jpg",
+      "author": "oatsy40",
+      "license": "CC BY 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Unterbrochenes_Gel%C3%A4nder_20250724_HOF1586_RAW-Export.png",
+      "author": "PantheraLeo1359531",
+      "license": "CC BY 4.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Victoria_Park_railings_and_gates,_Avenue_Road,_Leamington_-_geograph.org.uk_-_6713652.jpg",
+      "author": "Robin Stott",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Rotting_post_and_rail_fence_on_Sedgwick_Lane,_Nuthurst,_West_Sussex.jpg",
+      "author": "Acabashi",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "all_pdf_pages_rendered": "pass",
+  "pdf_text_and_page_bounds": "pass",
+  "photo_three_page_structure": {
+    "2026-11-24/栅栏后面的疏与密/栅栏后面的疏与密_点评与思考.pdf": 5,
+    "2026-11-24/栏杆与枯枝的重复/栏杆与枯枝的重复_点评与思考.pdf": 5,
+    "2026-11-24/重复线条中断的地方/重复线条中断的地方_点评与思考.pdf": 5
+  },
+  "photos_with_nine_sections": 15,
+  "analysis_hanzi_per_photo": [
+    1053,
+    1028,
+    1070,
+    1121,
+    1113,
+    1199,
+    1130,
+    1057,
+    1053,
+    1063,
+    1088,
+    1137,
+    1085,
+    1073,
+    1206
+  ],
+  "analysis_hanzi_total": 16476,
+  "all_manuscript_paragraphs_present_in_pdfs": "pass",
+  "all_used_text_fonts_embedded_noto_sans_sc": "pass",
+  "font_license": "SIL Open Font License 1.1",
+  "files": [
+    {
+      "path": "2026-11-24/今日导读.pdf",
+      "pages": 4,
+      "sha256": "d86f74e691136ecd5c6b28b57635b422943c04530779e7d3c310941b4f7615d8",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ]
+    },
+    {
+      "path": "2026-11-24/栅栏后面的疏与密/栅栏后面的疏与密_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "9d681989acfed632c1ff35e09e581e2ff82fdc047fc463c36773c58fbfae98ae",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-24/栏杆与枯枝的重复/栏杆与枯枝的重复_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "8f521ee463adf8cfb3efa39468c4b7e2a35f74687639900636a3229d6554f6c8",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    },
+    {
+      "path": "2026-11-24/重复线条中断的地方/重复线条中断的地方_点评与思考.pdf",
+      "pages": 16,
+      "sha256": "38091c89917fdc47aefe04477c4f724b2d3f4ae873b6371ab21ede4799ba4cab",
+      "fonts": [
+        "/AAAAAA+NotoSansSC-Regular",
+        "/AAAAAB+NotoSansSC-Regular",
+        "/AAAAAC+NotoSansSC-Regular",
+        "/Helvetica"
+      ],
+      "photo_three_page_groups": 5
+    }
+  ]
+}
